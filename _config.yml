@@ -20,7 +20,7 @@ title                    : "Exclaim Games"
 title_separator          : "|"
 subtitle                 : # nothing here
 name                     : # nothing here
-description              : "Welcome to the exciting world of Exclaim Games. Inovative indie card game designers and publishers from Sussex, UK."
+description              : "Welcome to the exciting world of Exclaim Games. Innovative indie card game designers and publishers from Sussex, UK."
 url                      : "https://exclaimgames.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -58,7 +58,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
+  hide                   : "true" false (default)
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
