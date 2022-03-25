@@ -15,8 +15,8 @@ feature_row:
     excerpt: "Find out about all the exciting things we're currently working on."
     url: "/docs/configuration/"
     btn_class: "btn--primary"
-    btn_label: "Go"
-  - image_path: /assets/images/eco-promise.jpg
+    btn_label: "Take a peek"
+  - image_path: /assets/images/games-tester.jpg
     alt: "games tester"
     title: "Become a tester"
     excerpt: "Want to receive free prototypes of our games? Join our games test club."
