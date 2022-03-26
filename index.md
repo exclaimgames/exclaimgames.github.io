@@ -19,14 +19,14 @@ feature_row:
   - image_path: /assets/images/games-tester.jpg
     alt: "games tester"
     title: "Become a tester"
-    excerpt: "Want to receive free prototypes of our games? Join our games test club."
-    url: "<a href="https://tinyletter.com/exclaimgames" target="_blank">Sign up</a>"
+    excerpt: "Want to receive free prototypes of our games? Join our test club."
+    url: "/test-club/"
     btn_class: "btn--primary"
     btn_label: "Sign up"
   - image_path: /assets/images/eco-promise.jpg
     alt: "eco promise"
     title: "Our eco promise"
-    excerpt: "The envioronment is our top priority. Find out about our sustainable processes."
+    excerpt: "We ♥ the envioronment. Find out about our sustainable processes."
     url: "/sustainable-games"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
