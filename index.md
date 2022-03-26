@@ -6,8 +6,10 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/banner-background.jpg
   actions:
+    - label: "Explore our games"
+      url: "/games/"
 excerpt: >
-  We're an indie card game developer, creating simple but spectacular games. Play by yourself, play with your family, or play with your friends. Just play!
+  We're an indie card game developer, creating simple but spectacular games. Good for the brain, good for the soul, and great for the planet.
 feature_row:
   - image_path: /assets/images/games-in-development.jpg
     alt: "games in development"
