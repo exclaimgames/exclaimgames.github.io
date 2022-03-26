@@ -13,7 +13,7 @@ feature_row:
     alt: "games in development"
     title: "Games in development"
     excerpt: "Find out about all the exciting things we're currently working on."
-    url: "/docs/configuration/"
+    url: "/in-development"
     btn_class: "btn--primary"
     btn_label: "Take a peek"
   - image_path: /assets/images/games-tester.jpg
@@ -27,7 +27,7 @@ feature_row:
     alt: "eco promise"
     title: "Our eco promise"
     excerpt: "The envioronment is our top priority. Find out about our sustainable processes."
-    url: "/docs/license/"
+    url: "/sustainable-games"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---
