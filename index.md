@@ -20,7 +20,7 @@ feature_row:
     alt: "games tester"
     title: "Become a tester"
     excerpt: "Want to receive free prototypes of our games? Join our games test club."
-    url: "https://tinyletter.com/exclaimgames"
+    url: "<a href="https://tinyletter.com/exclaimgames" target="_blank">Sign up</a>"
     btn_class: "btn--primary"
     btn_label: "Sign up"
   - image_path: /assets/images/eco-promise.jpg
