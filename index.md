@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 hidden: true
 header:
-  overlay_image: /assets/images/banner-background.jpg
+  overlay_image: https://images.pexels.com/photos/763097/pexels-photo-763097.jpeg
   overlay_filter: linear-gradient(rgba(3, 152, 158, 0.5), rgba(0, 0, 0, 0.5))
   actions:
     - label: "Explore our games"
