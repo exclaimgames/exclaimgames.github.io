@@ -9,7 +9,7 @@ header:
     - label: "Explore our games"
       url: "/games/"
 excerpt: >
-  We're an indie card game developer, creating simple but spectacular games. Good for the brain, good for the soul, and great for the planet.
+  We're an indie card game developer. Our simple yet splendid games are good for the brain, good for the soul, and great for the planet.
 feature_row:
   - image_path: /assets/images/games-in-development.jpg
     alt: "games in development"
