@@ -4,7 +4,7 @@ layout: single
 permalink: /games/
 header:
   overlay_image: https://images.pexels.com/photos/8111364/pexels-photo-8111364.jpeg
-  overlay_filter: linear-gradient(rgba(255, 0, 0, 0.5), rgba(0, 255, 255, 0.5))
+  overlay_filter: linear-gradient(rgba(3, 152, 158, 0.5), rgba(0, 0, 0, 0.5))
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
     - label: "Download"
