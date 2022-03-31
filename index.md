@@ -25,10 +25,10 @@ feature_row:
   - image_path: /assets/images/tile_background.png
     alt: "eco promise"
     title: "Our eco promise"
-    excerpt: "We <i class="fa-solid fa-heart"></i> the envioronment. Find out about our sustainable processes."
+    excerpt: "We love the envioronment. Find out about our sustainable processes."
     url: "/sustainable-games"
     btn_class: "btn--info"
-    btn_label: "Go <i class="fab fa-fw fa-instagram" aria-hidden="true"></i>"      
+    btn_label: "Go »"      
 ---
 
 {% include feature_row %}
