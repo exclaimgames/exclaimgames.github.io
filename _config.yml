@@ -133,9 +133,6 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/gillespiovich/"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "hello@exclaimgames.com"
 
 
 # Reading Files
