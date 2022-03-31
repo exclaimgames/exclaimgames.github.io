@@ -1,11 +1,9 @@
 # main links
 main:
-  - title: "Games"
+  - title: "Our Games"
     url: /in-development/
-  - title: "Join Our Club"
+  - title: "Become a Tester"
     url: /test-club/
-    btn_class: "btn--info"
-    btn_label: "Join Club"
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
