@@ -1,7 +1,6 @@
 ---
 title: "Join Our Games Test Club"
-layout: single
-classes: wide
+layout: splash
 permalink: /test-club/
 header:
   overlay_image: https://images.pexels.com/photos/842339/pexels-photo-842339.jpeg
