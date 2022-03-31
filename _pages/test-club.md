@@ -13,9 +13,9 @@ excerpt: >
 
 ## Interested in becoming a tester?
 
-Simply click on the button below and submit your details. We'll be in touch whenever there's a new game that needs your expert eye?
+Simply fill in your details below. We'll be in touch whenever there's a new game that needs your expert eye.
 
-[Sign up »](#){: .btn-info}
+<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/exclaimgames" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/exclaimgames', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Enter your email address</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /><p><a href="https://tinyletter.com" target="_blank">powered by TinyLetter</a></p></form> 
 
 ## FAQ
 
