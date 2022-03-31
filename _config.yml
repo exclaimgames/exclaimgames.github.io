@@ -58,8 +58,8 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : true # false (default)
-search                   : # true, false (default)
+  hide                   : # true, false (default)
+search                   : true # false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
@@ -132,10 +132,10 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://twitter.com/ftblforfuture"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
@@ -147,7 +147,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://www.instagram.com/gillespiovich/"
 
 
 # Reading Files
