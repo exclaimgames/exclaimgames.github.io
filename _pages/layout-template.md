@@ -1,13 +1,17 @@
 ---
 title: "Archive Layout with Content"
 layout: single
-permalink: /games/
+classes: wide
+permalink: /layout-template/
 header:
   overlay_image: https://images.pexels.com/photos/842339/pexels-photo-842339.jpeg
   overlay_filter: linear-gradient(rgba(3, 152, 158, 0.5), rgba(0, 0, 0, 0.5))
   actions:
     - label: "Download"
       url: "https://github.com"
+excerpt: >
+  Lorem ipsumy stuff goes here.
+  
 ---
 
 A variety of common markup showing how the theme styles them.
