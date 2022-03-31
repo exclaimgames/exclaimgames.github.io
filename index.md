@@ -3,35 +3,35 @@ layout: splash
 permalink: /
 hidden: true
 header:
-  overlay_image: https://patternico.com/#cjHOxH7CpqjVMJSe
+  overlay_image: /assets/images/tile_background.png
   overlay_filter: linear-gradient(rgba(3, 152, 158, 0.5), rgba(0, 0, 0, 0.5))
   actions:
     - label: "Explore our games"
       url: "/games/"
 excerpt: >
-  We're a UK-based indie card game developer. Our simply splendid games are good for the brain, good for the soul, and great for the planet.
+  We’re a UK-based indie card game developer. Our simply splendid games are good for the brain, good for the soul, and great for the planet.
 feature_row:
   - image_path: /assets/images/games-in-development.jpg
     alt: "games in development"
     title: "Games in development"
-    excerpt: "Find out about all the exciting things we're currently working on."
+    excerpt: "Take a peek behind to scenes to see our work-in-progress games."
     url: "/in-development"
     btn_class: "btn--primary"
-    btn_label: "Take a peek"
+    btn_label: "Go →"
   - image_path: /assets/images/games-tester.jpg
     alt: "games tester"
     title: "Become a tester"
     excerpt: "Want to receive free prototypes of our games? Join our test club."
     url: "/test-club/"
     btn_class: "btn--primary"
-    btn_label: "Sign up"
+    btn_label: "Go →"
   - image_path: /assets/images/eco-promise.jpg
     alt: "eco promise"
     title: "Our eco promise"
     excerpt: "We ♥ the envioronment. Find out about our sustainable processes."
     url: "/sustainable-games"
     btn_class: "btn--primary"
-    btn_label: "Learn more"      
+    btn_label: "Go →"      
 ---
 
 {% include feature_row %}
