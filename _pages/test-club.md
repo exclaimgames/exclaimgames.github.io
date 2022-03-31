@@ -1,5 +1,5 @@
 ---
-title: "Join our games test club"
+title: "Join Our Games Test Club"
 layout: single
 classes: wide
 permalink: /test-club/
@@ -15,7 +15,7 @@ excerpt: >
 
 Simply click on the button below and submit your details. We'll be in touch whenever there's a new game that needs your expert eye?
 
-[Sign up →](#){: .btn}
+[Sign up »](#){: .btn-info}
 
 ## FAQ
 
