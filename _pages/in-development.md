@@ -15,8 +15,7 @@ excerpt: >
 
 {% include figure image_path="https://images.pexels.com/photos/842339/pexels-photo-842339.jpeg" alt="this is a placeholder image"  %}
 
-» 2-6 players » 15 mins » 6+
-{: .notice}
+2-6 players | 15 mins | 6+
 
 Compete to win hands using beautifully designed cards based on days of the year. A strategic trick-taking game with an innovative blackjack-style twist. Gives kids some basic addition skills, as well as some interesting facts about the calendar.
 
@@ -24,4 +23,4 @@ Compete to win hands using beautifully designed cards based on days of the year.
 
 Want to get your hands on our games before they're released and have a say in how they're developed? Join the Exclaim Games test club.
 
-[Go »](/test-club/){: .btn--info}
+[Go »](/test-club/){: .btn .btn--info}
