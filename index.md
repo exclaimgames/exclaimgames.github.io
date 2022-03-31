@@ -14,7 +14,7 @@ feature_row:
     excerpt: "Take a peek behind to scenes to see our work-in-progress games."
     url: "/in-development"
     btn_class: "btn--info"
-    btn_label: "Go <i class="fa-solid fa-angle-right"></i>"
+    btn_label: "Go »"
   - image_path: https://www.fillmurray.com/640/360
     alt: "games tester"
     title: "Become a tester"
@@ -32,5 +32,3 @@ feature_row:
 ---
 
 {% include feature_row %}
-
-<i class="fa-solid fa-stopwatch"></i>
