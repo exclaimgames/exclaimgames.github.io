@@ -28,6 +28,4 @@ At Exclaim Games we promise to:
  
 It's easy to say these things, but much harder to do them. We want to be held accountable for our actions, so have applied for B-Corporation status. This is the globally recognised kitemark for companies doing their best to minimise and reverse the environmental impact of their operation.
 
-Subscribe to our newsletter for regular updates on how our accreditation is going. 
- 
-[Go »](#link){: .btn--info}
+[Subscribe to our newsletter](https://tinyletter.com/exclaimgames) for regular updates on how our accreditation is going. 
