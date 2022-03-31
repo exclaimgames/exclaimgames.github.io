@@ -1,5 +1,5 @@
 ---
-title: "Our eco promise"
+title: "Our Eco Promise"
 layout: single
 classes: wide
 permalink: /sustainable-games/
@@ -13,7 +13,7 @@ excerpt: >
 
 Take a look through your games collection. There's rather a large amount of plastic, right? All those tiles, chips and playing pieces in shrink-wrapped boxes that have been shipped halfway around the world leave a huge footprint. Even your decks of playing cards are likely to be plastic-coated. 
 
-We think enough's enough, and aim to be a force for positive change in the games industry.
+We think enough's enough, and aim to be a positive force for change in the games industry.
 
 ## Putting the planet over profits
 
@@ -30,4 +30,4 @@ It's easy to say these things, but much harder to do them. We want to be held ac
 
 Subscribe to our newsletter for regular updates on how our accreditation is going. 
  
-[Go →](#){: .btn}
+[Go »](#link){: .btn--info}
