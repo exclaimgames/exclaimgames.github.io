@@ -13,22 +13,22 @@ feature_row:
     title: "Games in development"
     excerpt: "Take a peek behind to scenes to see our work-in-progress games."
     url: "/in-development"
-    btn_class: "btn--primary"
-    btn_label: "Go →"
+    btn_class: "btn--info"
+    btn_label: "Go »"
   - image_path: /assets/images/games-tester.jpg
     alt: "games tester"
     title: "Become a tester"
     excerpt: "Want to receive free prototypes of our games? Join our test club."
     url: "/test-club/"
-    btn_class: "btn--primary"
-    btn_label: "Go →"
+    btn_class: "btn--info"
+    btn_label: "Go »"
   - image_path: /assets/images/eco-promise.jpg
     alt: "eco promise"
     title: "Our eco promise"
     excerpt: "We ♥ the envioronment. Find out about our sustainable processes."
     url: "/sustainable-games"
-    btn_class: "btn--primary"
-    btn_label: "Go →"      
+    btn_class: "btn--info"
+    btn_label: "Go »"      
 ---
 
 {% include feature_row %}
