@@ -5,9 +5,6 @@ hidden: true
 header:
   overlay_image: /assets/images/tile_background.png
   overlay_filter: linear-gradient(rgba(3, 152, 158, 0.5), rgba(0, 0, 0, 0.5))
-  actions:
-    - label: "Explore our games"
-      url: "/games/"
 excerpt: >
   We’re a UK-based indie card game developer. Our simply splendid games are good for the brain, good for the soul, and great for the planet.
 feature_row:
@@ -35,3 +32,10 @@ feature_row:
 ---
 
 {% include feature_row %}
+
+Text here just to test appearance
+
+## H2 text
+
+More body
+
