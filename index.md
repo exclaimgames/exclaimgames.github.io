@@ -3,13 +3,13 @@ layout: splash
 permalink: /
 hidden: true
 header:
-  overlay_image: https://images.pexels.com/photos/763097/pexels-photo-763097.jpeg
+  overlay_image: https://patternico.com/#cjHOxH7CpqjVMJSe
   overlay_filter: linear-gradient(rgba(3, 152, 158, 0.5), rgba(0, 0, 0, 0.5))
   actions:
     - label: "Explore our games"
       url: "/games/"
 excerpt: >
-  We're an indie card game developer. Our simple yet splendid games are good for the brain, good for the soul, and great for the planet.
+  We're a UK-based indie card game developer. Our simply splendid games are good for the brain, good for the soul, and great for the planet.
 feature_row:
   - image_path: /assets/images/games-in-development.jpg
     alt: "games in development"
