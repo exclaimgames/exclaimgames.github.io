@@ -32,10 +32,3 @@ feature_row:
 ---
 
 {% include feature_row %}
-
-Text here just to test appearance
-
-## H2 text
-
-More body
-
