@@ -2,6 +2,7 @@
 title: "Games In Development"
 layout: single
 classes: wide
+author_profile: true
 permalink: /in-development/
 header:
   overlay_image: https://images.pexels.com/photos/842339/pexels-photo-842339.jpeg
