@@ -1,6 +1,7 @@
 ---
 title: "Games In Development"
-layout: splash
+layout: single
+classes: wide
 permalink: /in-development/
 header:
   overlay_image: https://images.pexels.com/photos/842339/pexels-photo-842339.jpeg
