@@ -12,15 +12,13 @@ excerpt: >
 
 ## Oh My Days!
 
-{% include figure image_path="https://images.pexels.com/photos/842339/pexels-photo-842339.jpeg" alt="this is a placeholder image"  %}
+{% include figure image_path="https://images.pexels.com/photos/842339/pexels-photo-842339.jpeg" alt="oh my days card game mockup"  %}
 
 <i class="fa fa-users" style="color:#03989e;"></i> 2-6 players | <i class="fa fa-stopwatch" style="color:#03989e;"></i> 15 mins | <i class="fa fa-birthday-cake" style="color:#03989e;"></i> 6+
 
 Compete to win hands using beautifully designed cards based on days of the year. A strategic trick-taking game with an innovative blackjack-style twist. Gives kids some basic addition skills, as well as some interesting facts about the calendar.
 
 ## World Cup Draw
-
-{% include figure image_path="https://exclaimgames.com/assets/images/world-cup-mockup.png" alt="this is a placeholder image"  %}
 
 {% include figure image_path="/assets/images/world-cup-mockup.png" alt="world cup card game mockup"  %}
 
