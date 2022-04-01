@@ -104,13 +104,13 @@ analytics:
 author:
   name             : "Got a game idea?"
   avatar           : # "/assets/images/exclaim-games-logo.png"
-  bio              : "As well as inventing games, we help people get their own games from the drawing board to the shop shelves. Think you have the next big thing? [Email us](hello@exclaimgames.com) your ideas."
+  bio              : "As well as inventing games, we help people get their own games from the drawing board to the shop shelves. Think you have the next big thing?"
   location         : # "Somewhere"
   email            : # "hello@exclaimgames.com"
   links:
-    - label: "Email"
+    - label: "Email us"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "hello@exclaimgames.com"
+      url: "hello@exclaimgames.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
