@@ -18,15 +18,15 @@ excerpt: >
 
 <i class="fa fa-users" style="color:#03989e;"></i> 2-6 players | <i class="fa fa-stopwatch" style="color:#03989e;"></i> 15 mins | <i class="fa fa-birthday-cake" style="color:#03989e;"></i> 6+
 
-Compete to win hands using beautifully designed cards based on days of the year. A strategic trick-taking game with an innovative blackjack-style twist. Gives kids some basic addition skills, as well as some interesting facts about the calendar.
+Compete to win hands using beautifully designed cards based on days of the year. A strategic trick-taking game with an innovative blackjack-style twist. Kids will get some interesting facts about the calendar, and a chance to fine-tune their basic addition skills.
 
-## World Cup Draw
+## Group of Death
 
 {% include figure image_path="/assets/images/world-cup-mockup.png" alt="world cup card game mockup"  %}
 
 <i class="fa fa-users" style="color:#03989e;"></i> 2-8 players | <i class="fa fa-stopwatch" style="color:#03989e;"></i> 20 mins | <i class="fa fa-birthday-cake" style="color:#03989e;"></i> 8+
 
-Football, football, football. Aim is to build the strongest group of 4 - the group of death. Hand needs to have one from each pot, and no more than 2 from the same region. Get on it Steve.
+Every four years, eyes around the globe tune in to see who's playing who in football's World Cup. Everyone wants to avoid the other big teams, but the aim of this game is to bring them together to create a hand that offers the ultimate tough test.
 
 ## Get free game prototypes
 
