@@ -102,15 +102,15 @@ analytics:
 
 # Site Author
 author:
-  name             : # "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : # "I am an **amazing** person."
+  name             : "Exclaim Games"
+  avatar           : "/assets/images/exclaim-games-logo.png"
+  bio              : "Got an idea for a game? Message us bruv"
   location         : # "Somewhere"
-  email            : # "hello@exclaimgames.com"
+  email            : "hello@exclaimgames.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "hello@exclaimgames.com"
+      # url: "hello@exclaimgames.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
