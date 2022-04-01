@@ -110,7 +110,7 @@ author:
   links:
     - label: "Email us"
       icon: "fas fa-fw fa-envelope-square"
-      url: "hello@exclaimgames.com"
+      url: "mailto:hello@exclaimgames.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
