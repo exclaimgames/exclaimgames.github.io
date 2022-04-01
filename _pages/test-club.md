@@ -16,6 +16,19 @@ Simply click the button below and fill in your details. We'll be in touch whenev
 
 [Sign up »](https://tinyletter.com/exclaimgames){: .btn .btn--info}
 
+<!-- modify this form HTML and place wherever you want your form -->
+<form
+  action="https://formspree.io/f/xrgjayvg"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="email">
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Sign up</button>
+</form>
+
 ## FAQ
 
 ### How 'finished' will the games I get be?
