@@ -22,4 +22,4 @@ We're proud to be a part of the UK's blossoming indie games industry, and are al
 
 Who knows, but if you want to come along for the ride (and get a chance to play our prototypes for free), subscribe to our newsletter.
 
-[Sign up <i class="fa fa-angle-right"></i>](#link){: .btn .btn--info .btn--large}
+[Sign up <i class="fa fa-angle-right"></i>](https://tinyletter.com/exclaimgames){: .btn .btn--info .btn--large}
