@@ -14,7 +14,7 @@ excerpt: >
 
 Simply subscribe to our newsletter and we'll let you know whenever there are games that need your expert eye.
 
-[Sign up »](https://tinyletter.com/exclaimgames){: .btn .btn--info}
+[Sign up <i class="fa fa-angle-right"></i>](https://tinyletter.com/exclaimgames){: .btn .btn--info .btn--large}
 
 ## FAQ
 
