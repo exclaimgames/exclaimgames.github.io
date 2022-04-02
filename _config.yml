@@ -102,15 +102,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Got a game idea?"
+  name             : # "Got a game idea?"
   avatar           : # "/assets/images/exclaim-games-logo.png"
-  bio              : "As well as inventing games, we help people get their own games from the drawing board to the shop shelves. Think you have the next big thing?"
+  bio              : # "As well as inventing games, we help people get their own games from the drawing board to the shop shelves. Think you have the next big thing?"
   location         : # "Somewhere"
   email            : # "hello@exclaimgames.com"
   links:
     - label: "Email us"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:hello@exclaimgames.com"
+      # url: "mailto:hello@exclaimgames.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
