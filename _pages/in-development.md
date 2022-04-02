@@ -32,4 +32,10 @@ Every four years, eyes around the globe tune in to see who's playing who in foot
 
 Want to get your hands on our games before they're released and have a say in how they're developed? Join the Exclaim Games test club.
 
-[Go <i class="fa fa-angle-right"></i>](/test-club/){: .btn .btn--info}
+[Go <i class="fa fa-angle-right"></i>](https://tinyletter.com/exclaimgames){: .btn .btn--info}
+
+## Share your game ideas
+
+As well as inventing games, we help people get their own games from the drawing board to the shop shelves. Think you have the next big thing?
+
+Email [hello@exclaimgames.com](mailto:hello@exclaimgames.com)
