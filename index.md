@@ -27,7 +27,7 @@ feature_row:
     title: "Our eco promise"
     excerpt: "We love the envioronment. Find out about our sustainable processes."
     url: "/sustainable-games"
-    btn_class: "btn--info"
+    btn_class: "btn--info btn--large"
     btn_label: "Go ›"      
 ---
 
