@@ -14,7 +14,7 @@ feature_row:
     excerpt: "Take a peek behind to scenes to see our work-in-progress games."
     url: "/in-development"
     btn_class: "btn--info btn--large"
-    btn_label: "Go <i class="fa fa-angle-right"></i>"
+    btn_label: "Go ›</i>"
   - image_path: /assets/images/tile_background.png
     alt: "games tester"
     title: "Become a tester"
