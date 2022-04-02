@@ -30,7 +30,7 @@ Every four years, eyes around the globe tune in to see who's playing who in foot
 
 Want to get your hands on our games before they're released and have a say in how they're developed? Join the Exclaim Games test club.
 
-[Go <i class="fa fa-angle-right"></i>](https://tinyletter.com/exclaimgames){: .btn .btn--info}
+[Go <i class="fa fa-angle-right"></i>](https://tinyletter.com/exclaimgames){: .btn .btn--info .btn--large}
 
 ## Share your game ideas
 
