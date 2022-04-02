@@ -10,17 +10,18 @@ excerpt: >
   
 ---
 
-# For help with any of our games
+## For help with any of our games
+
 Email [help@exclaimgames.com](mailto:help@exclaimgames.com)
 
 ## For media requests or queries
 
 Email [press@exclaimgames.com](mailto:press@exclaimgames.com)
 
-## For stockist and other trade enquiries
+## For licensing and other trade enquiries
 
-[trade@exclaimgames.com](mailto:trade@exclaimgames.com)
+Email [trade@exclaimgames.com](mailto:trade@exclaimgames.com)
 
 ## For game ideas or anything else
 
-[hello@exclaimgames.com](mailto:hello@exclaimgames.com)
+Email [hello@exclaimgames.com](mailto:hello@exclaimgames.com)
