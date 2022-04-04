@@ -10,22 +10,22 @@ excerpt: >
 feature_row:
   - image_path: /assets/images/tile_background.png
     alt: "games in development"
-    title: "Games in development"
+    title: "Games in Development"
     excerpt: "Take a peek behind to scenes to see our work-in-progress games."
     url: "/in-development"
     btn_class: "btn--info btn--large"
     btn_label: "Go ›"
   - image_path: /assets/images/tile_background.png
     alt: "games tester"
-    title: "Become a tester"
+    title: "Become a Tester"
     excerpt: "Want to receive free prototypes of our games? Join our test club."
     url: "/test-club/"
     btn_class: "btn--info btn--large"
     btn_label: "Go ›"
   - image_path: /assets/images/tile_background.png
     alt: "eco promise"
-    title: "Our eco promise"
-    excerpt: "We love the envioronment. Find out about our sustainable processes."
+    title: "Our Eco Promise"
+    excerpt: "We ♥ the envioronment. Find out about our sustainable processes."
     url: "/sustainable-games"
     btn_class: "btn--info btn--large"
     btn_label: "Go ›"      
