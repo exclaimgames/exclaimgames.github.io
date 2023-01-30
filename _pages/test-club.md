@@ -12,7 +12,7 @@ excerpt: >
 
 ## Interested in becoming a tester?
 
-Simply subscribe to our newsletter and we'll let you know whenever there are games that need your expert eye.
+Subscribe to our newsletter and we'll let you know whenever there are games that need your expert eye.
 
 [Sign up <i class="fa fa-angle-right"></i>](https://tinyletter.com/exclaimgames){: .btn .btn--info .btn--large}
 
@@ -20,11 +20,11 @@ Simply subscribe to our newsletter and we'll let you know whenever there are gam
 
 ### How 'finished' will the games I get be?
 
-They'll be fully functioning games with a few elements still in draft. So while the artwork, packaging and instructions may be a little raw, the way you play will be close to completion. That's not to say they won't evolve later on - your views on our prototypes will influence what happens to them next.
+They'll be fully functional games with a few elements still in draft. So while the artwork, packaging and instructions may be a little raw, the way you play will be close to completion. That's not to say they won't evolve later on - your views on our prototypes will influence what happens next.
 
 ### How much feedback will you need on a prototype?
 
-We'll send you a simple form to complete that should take no more that 10 minutes of your time. Before filling it in, ideally you'll have played the game through a few times to thoroughly stress test it. Play with different numbers of players, try and cheat the system, add in your own rules - do whatever you like to help us make it better for everyone.
+We'll send you an online form to complete that should take less that 10 minutes to fill in. Before submitting it, ideally you'll have played the game a few times to thoroughly stress test it. Play with different numbers of players, try and cheat the system, add in your own rules - do whatever you like to help us make it better for everyone.
 
 ### Will I be paid?
 
