@@ -10,16 +10,16 @@ excerpt: >
 feature_row:
   - image_path: /assets/images/tile_background.png
     alt: "our games"
-    title: "Our Games in Development"
+    title: "Our Games"
     excerpt: "See what’s out now and what’s coming soon."
-    url: "/in-development"
+    url: "/games"
     btn_class: "btn--info btn--large"
     btn_label: "Go ›"
   - image_path: /assets/images/tile_background.png
     alt: "games tester"
     title: "Become a Tester"
     excerpt: "Help us develop new game prototypes."
-    url: "/test-club/"
+    url: "/test-club"
     btn_class: "btn--info btn--large"
     btn_label: "Go ›"
   - image_path: /assets/images/tile_background.png
