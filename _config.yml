@@ -130,9 +130,6 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/gillespiovich/"
     - label: "Newsletter"
       icon: "fas fa-fw fa-envelope-square"
       url: "https://tinyletter.com/exclaimgames"
