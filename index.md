@@ -6,26 +6,26 @@ header:
   overlay_image: /assets/images/tile_background.png
   overlay_filter: linear-gradient(rgba(3, 152, 158, 0.5), rgba(0, 0, 0, 0.5))
 excerpt: >
-  We’re a UK-based indie card game developer. Our simply splendid games are good for the brain, good for the soul, and great for the planet.
+  We’re a UK-based indie card game developer. Our simply splendid games are good for the brain, the soul, and the planet.
 feature_row:
   - image_path: /assets/images/tile_background.png
-    alt: "games in development"
-    title: "Games in Development"
-    excerpt: "Take a peek behind to scenes to see our work-in-progress games."
+    alt: "our games"
+    title: "Our Games in Development"
+    excerpt: "See what’s out now and what’s coming soon."
     url: "/in-development"
     btn_class: "btn--info btn--large"
     btn_label: "Go ›"
   - image_path: /assets/images/tile_background.png
     alt: "games tester"
     title: "Become a Tester"
-    excerpt: "Want to receive free prototypes of our games? Join our test club."
+    excerpt: "Help us develop new game prototypes."
     url: "/test-club/"
     btn_class: "btn--info btn--large"
     btn_label: "Go ›"
   - image_path: /assets/images/tile_background.png
     alt: "eco promise"
     title: "Our Eco Promise"
-    excerpt: "We ♥ the envioronment. Find out about our sustainable processes."
+    excerpt: "Find out about our sustainable processes."
     url: "/sustainable-games"
     btn_class: "btn--info btn--large"
     btn_label: "Go ›"      
