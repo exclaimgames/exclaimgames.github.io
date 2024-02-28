@@ -25,6 +25,25 @@ gallery1:
 
 {% include gallery id="gallery1" layout="half" caption="This is a second gallery example with images hosted externally." %}
 
+<figure class="half">
+    <a href="/assets/images/image-filename-1-large.jpg"><img src="https://farm2.staticflickr.com/1272/4697500467_8294dac099_q.jpg"></a>
+    <a href="/assets/images/image-filename-2-large.jpg"><img src="https://farm5.staticflickr.com/4029/4697523701_249e93ba23_q.jpg"></a>
+    <figcaption>Compete to win hands using beautifully designed cards based on days of the year. A strategic trick-taking game with an innovative blackjack-style twist.</figcaption>
+</figure>
+
+<figure class="half">
+	<a href="http://placehold.it/1200x600.JPG"><img src="http://placehold.it/600x300.jpg"></a>
+	<a href="http://placehold.it/1200x600.jpeg"><img src="http://placehold.it/600x300.jpg"></a>
+	<figcaption>Compete to win hands using beautifully designed cards based on days of the year. A strategic trick-taking game with an innovative blackjack-style twist.</figcaption>
+</figure>
+
+<figure class="third">
+	<img src="http://placehold.it/600x300.jpg">
+	<img src="http://placehold.it/600x300.jpg">
+	<img src="http://placehold.it/600x300.jpg">
+	<figcaption>Compete to win hands using beautifully designed cards based on days of the year. A strategic trick-taking game with an innovative blackjack-style twist.</figcaption>
+</figure>
+
 {% include figure image_path="https://images.pexels.com/photos/842339/pexels-photo-842339.jpeg" alt="oh my days card game mockup" layout="half" caption="Compete to win hands using beautifully designed cards based on days of the year. A strategic trick-taking game with an innovative blackjack-style twist." %}
 
 <i class="fa fa-users" style="color:#03989e;"></i> 2-6 players | <i class="fa fa-stopwatch" style="color:#03989e;"></i> 15 mins | <i class="fa fa-birthday-cake" style="color:#03989e;"></i> 6+
