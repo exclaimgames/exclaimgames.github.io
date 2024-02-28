@@ -13,15 +13,17 @@ excerpt: >
 
 ### What's In The Bag?
 
+<i class="fa fa-users" style="color:#03989e;"></i> 2-8 players | <i class="fa fa-stopwatch" style="color:#03989e;"></i> 20 mins | <i class="fa fa-birthday-cake" style="color:#03989e;"></i> 6+
+
 <figure class="half">
 	<a href="http://placehold.it/1200x600.JPG"><img src="http://placehold.it/600x300.jpg"></a>
 	<a href="http://placehold.it/1200x600.jpeg"><img src="http://placehold.it/600x300.jpg"></a>
 	<figcaption>Gather the best set of golf clubs before the other players do. A hand building game with plenty of power-ups and penalties.</figcaption>
 </figure>
 
-<i class="fa fa-users" style="color:#03989e;"></i> 2-8 players | <i class="fa fa-stopwatch" style="color:#03989e;"></i> 20 mins | <i class="fa fa-birthday-cake" style="color:#03989e;"></i> 6+
-
 ### Oh My Days!
+
+<i class="fa fa-users" style="color:#03989e;"></i> 2-6 players | <i class="fa fa-stopwatch" style="color:#03989e;"></i> 15 mins | <i class="fa fa-birthday-cake" style="color:#03989e;"></i> 6+
 
 <figure class="half">
 	<a href="http://placehold.it/1200x600.JPG"><img src="http://placehold.it/600x300.jpg"></a>
@@ -29,17 +31,17 @@ excerpt: >
 	<figcaption>Compete to win hands with cards based on days of the year. A strategic trick taking game with a unique blackjack-style twist.</figcaption>
 </figure>
 
-<i class="fa fa-users" style="color:#03989e;"></i> 2-6 players | <i class="fa fa-stopwatch" style="color:#03989e;"></i> 15 mins | <i class="fa fa-birthday-cake" style="color:#03989e;"></i> 6+
-
 ### Group of Death
+
+<i class="fa fa-users" style="color:#03989e;"></i> 2-8 players | <i class="fa fa-stopwatch" style="color:#03989e;"></i> 15 mins | <i class="fa fa-birthday-cake" style="color:#03989e;"></i> 8+
+
+Avoid the big teams, or work to get them into your opponent's hand. A fast-paced card drafting game that mimics a World Cup draw.
 
 <figure class="half">
 	<a href="http://placehold.it/1200x600.JPG"><img src="http://placehold.it/600x300.jpg"></a>
 	<a href="http://placehold.it/1200x600.jpeg"><img src="http://placehold.it/600x300.jpg"></a>
 	<figcaption>Avoid the big teams, or work to get them into your opponent's hand. A fast-paced card drafting game that mimics a World Cup draw.</figcaption>
 </figure>
-
-<i class="fa fa-users" style="color:#03989e;"></i> 2-8 players | <i class="fa fa-stopwatch" style="color:#03989e;"></i> 15 mins | <i class="fa fa-birthday-cake" style="color:#03989e;"></i> 8+
 
 ## Get free game prototypes
 
