@@ -1,12 +1,12 @@
 ---
-title: "Contact"
+title: "Want to get in touch?"
 layout: splash
 permalink: /contact/
 header:
   overlay_image: https://images.pexels.com/photos/842339/pexels-photo-842339.jpeg
   overlay_filter: linear-gradient(rgba(3, 152, 158, 0.5), rgba(0, 0, 0, 0.5))
 excerpt: >
-  Want to get in touch with us? Here's how...
+  Here's how...
   
 ---
 
@@ -16,7 +16,9 @@ We're on the hunt for collaborators who can give an audience to our games. That 
 
 Our stack of prototypes is sitting waiting for the final themes, mechanics and designs to be added. All that's needed is a bit of input from you and we'll turn them into beautifully crafted branded games ready for your merch store.
 
-**Interested? Email [creator@exclaimgames.com](mailto:creator@exclaimgames.com) with links to your channel or social profiles and we'll set up a call.**
+### Interested?
+
+Email [creator@exclaimgames.com](mailto:creator@exclaimgames.com) with links to your channel or social profiles and we'll arrange a call.
 
 ## Other ways to get in touch
 
