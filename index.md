@@ -31,7 +31,11 @@ feature_row:
     btn_label: "Go ›"      
 ---
 
-We're card game designers with a bucketful of ideas. You run a successful online channel, show, blog or social profile. Together we can create a unique merchadise offer for your audience.
+We're card game designers with a bucketful of ideas.
+
+You run a successful online channel, show, blog or social profile.
+
+Together we can create a unique merchadise offer for your audience.
 
 [Get in touch <i class="fa fa-angle-right"></i>](/contact){: .btn .btn--info .btn--large}
 
