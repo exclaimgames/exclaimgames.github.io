@@ -10,6 +10,13 @@ excerpt: >
   
 ---
 
+<form action="https://formspree.io/f/xgegzpbv"
+      method="POST">
+    <input type="text" placeholder="Name" name="name">
+    <input type="email" placeholder="Email" name="_replyto" required>
+    <input type="submit" value="Send">
+</form>
+
 ## For help with any of our games
 
 Email [help@exclaimgames.com](mailto:help@exclaimgames.com)
