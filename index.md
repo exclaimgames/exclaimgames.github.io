@@ -6,7 +6,7 @@ header:
   overlay_image: /assets/images/tile_background.png
   overlay_filter: linear-gradient(rgba(3, 152, 158, 0.5), rgba(0, 0, 0, 0.5))
 excerpt: >
-  Captivating card games created for podcasters, YouTubers and other content creators.
+  Captivating card games developed for podcasters, YouTubers and other content creators.
 feature_row:
   - image_path: /assets/images/tile_background.png
     alt: "our games"
