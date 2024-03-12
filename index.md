@@ -6,7 +6,7 @@ header:
   overlay_image: /assets/images/tile_background.png
   overlay_filter: linear-gradient(rgba(3, 152, 158, 0.5), rgba(0, 0, 0, 0.5))
 excerpt: >
-  We’re a UK-based indie card game developer. Our simply splendid games are good for the brain, the soul, and the planet.
+  Captivating card games created for podcasters, YouTubers and other content creators.
 feature_row:
   - image_path: /assets/images/tile_background.png
     alt: "our games"
@@ -30,5 +30,9 @@ feature_row:
     btn_class: "btn--info btn--large"
     btn_label: "Go ›"      
 ---
+
+We're card game designers with a bucketful of ideas. You run a successful online channel, show, blog or social profile. Together we can create a unique merchadise offer for your audience.
+
+[Get in touch <i class="fa fa-angle-right"></i>](/contact){: .btn .btn--info .btn--large}
 
 {% include feature_row %}
