@@ -10,25 +10,18 @@ excerpt: >
   
 ---
 
-<form action="https://formspree.io/f/xgegzpbv"
-      method="POST">
-    <input type="text" placeholder="Name" name="name">
-    <input type="email" placeholder="Email" name="_replyto" required>
-    <input type="submit" value="Send">
-</form>
+## Calling all content creators
 
-## For help with any of our games
+We're on the hunt for collaborators who can give an audience to our games. That could be a golf YouTube channel, a science podcast or a van life Instagram feed - whatever you do and whoever you do it for, there's an opportunity for us to turn it into a card game.
 
-Email [help@exclaimgames.com](mailto:help@exclaimgames.com)
+Our stack of prototypes is sitting waiting for the final themes, mechanics and designs to be added. All that's needed is a bit of input from you and we'll turn them into beautifully crafted branded games ready for your merch store.
 
-## For media requests or queries
+**Interested? Email [creator@exclaimgames.com](mailto:creator@exclaimgames.com) with links to your channel or social profiles and we'll set up a call.**
 
-Email [press@exclaimgames.com](mailto:press@exclaimgames.com)
+## Other ways to get in touch
 
-## For licensing and other trade enquiries
+Send a message to:
 
-Email [trade@exclaimgames.com](mailto:trade@exclaimgames.com)
-
-## For game ideas or anything else
-
-Email [hello@exclaimgames.com](mailto:hello@exclaimgames.com)
+- [press@exclaimgames.com](mailto:press@exclaimgames.com) for media requests or queries
+- [trade@exclaimgames.com](mailto:trade@exclaimgames.com) for licensing and other commercial questions
+- [hello@exclaimgames.com](mailto:hello@exclaimgames.com) with game ideas or anything else
