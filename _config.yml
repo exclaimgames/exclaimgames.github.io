@@ -20,7 +20,7 @@ title                    : "Exclaim Games"
 title_separator          : "|"
 subtitle                 : # nothing here
 name                     : # nothing here
-description              : "Welcome to the exciting world of Exclaim Games. Innovative indie card game designers and publishers from Sussex, UK."
+description              : "Captivating card games created for podcasters, YouTubers and other content creators. Welcome to the world of Exclaim Games."
 url                      : "https://exclaimgames.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -132,7 +132,7 @@ footer:
   links:
     - label: "Newsletter"
       icon: "fas fa-fw fa-envelope-square"
-      url: "https://tinyletter.com/exclaimgames"
+      url: "https://exclaimgames.substack.com"
 
 # Reading Files
 include:
