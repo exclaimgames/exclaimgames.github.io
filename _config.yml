@@ -20,7 +20,7 @@ title                    : "Exclaim Games"
 title_separator          : "|"
 subtitle                 : # nothing here
 name                     : # nothing here
-description              : "Captivating card games created for podcasters, YouTubers and other content creators. Welcome to the world of Exclaim Games."
+description              : "Captivating card games developed for podcasters, YouTubers and other content creators. Welcome to the world of Exclaim Games."
 url                      : "https://exclaimgames.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
