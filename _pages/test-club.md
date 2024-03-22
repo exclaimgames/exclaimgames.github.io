@@ -3,7 +3,7 @@ title: "Join Our Games Test Club"
 layout: splash
 permalink: /test-club/
 header:
-  overlay_image: https://images.pexels.com/photos/842339/pexels-photo-842339.jpeg
+  overlay_image: /assets/images/circles.jpg
   overlay_filter: linear-gradient(rgba(3, 152, 158, 0.5), rgba(0, 0, 0, 0.5))
 excerpt: >
   Want to get your hands on some free games? Of course you do! We need people to help turn our prototypes into perfect products.
