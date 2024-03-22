@@ -3,7 +3,6 @@ title: "Privacy Policy"
 layout: splash
 permalink: /privacy-policy/
 header:
-  overlay_image: https://images.pexels.com/photos/842339/pexels-photo-842339.jpeg
   overlay_filter: linear-gradient(rgba(3, 152, 158, 0.5), rgba(0, 0, 0, 0.5))
   
 ---
