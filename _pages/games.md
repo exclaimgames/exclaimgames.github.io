@@ -3,7 +3,7 @@ title: "Our Games"
 layout: splash
 permalink: /games/
 header:
-  overlay_image: https://images.pexels.com/photos/842339/pexels-photo-842339.jpeg
+  overlay_image: /assets/images/crosses.jpg
   overlay_filter: linear-gradient(rgba(3, 152, 158, 0.5), rgba(0, 0, 0, 0.5))
 excerpt: >
   See what's out now and what's coming soon.
