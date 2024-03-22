@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 hidden: true
 header:
-  overlay_image: /assets/images/tile_background.png
+  overlay_image: /assets/images/patches.jpg
   overlay_filter: linear-gradient(rgba(3, 152, 158, 0.5), rgba(0, 0, 0, 0.5))
 excerpt: >
   Captivating card games developed for podcasters, YouTubers, Twitch streamers and other content creators.
