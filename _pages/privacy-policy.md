@@ -3,7 +3,7 @@ title: "Privacy Policy"
 layout: splash
 permalink: /privacy-policy/
 header:
-  overlay_filter: linear-gradient(rgba(3, 152, 158, 0.5), rgba(0, 0, 0, 0.5))
+  overlay_color: "#03989E"
   
 ---
 
