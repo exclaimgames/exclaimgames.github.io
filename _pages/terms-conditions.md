@@ -3,8 +3,7 @@ title: "Terms and Conditions"
 layout: splash
 permalink: /terms-conditions/
 header:
-  overlay_image: https://images.pexels.com/photos/842339/pexels-photo-842339.jpeg
-  overlay_filter: linear-gradient(rgba(3, 152, 158, 0.5), rgba(0, 0, 0, 0.5))
+  overlay_color: "#03989E"
   
 ---
 
