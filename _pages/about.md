@@ -3,7 +3,7 @@ title: "About Exclaim Games"
 layout: splash
 permalink: /about/
 header:
-  overlay_image: /assets/images/blobs.jpg
+  overlay_image: /assets/images/eg-background.jpg
   overlay_filter: linear-gradient(rgba(3, 152, 158, 0.5), rgba(0, 0, 0, 0.5))
 excerpt: >
   Like many things, it all started during the pandemic.
