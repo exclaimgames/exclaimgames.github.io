@@ -3,7 +3,7 @@ title: "Want to get in touch?"
 layout: splash
 permalink: /contact/
 header:
-  overlay_image: https://images.pexels.com/photos/842339/pexels-photo-842339.jpeg
+  overlay_image: /assets/images/circles.jpg
   overlay_filter: linear-gradient(rgba(3, 152, 158, 0.5), rgba(0, 0, 0, 0.5))
 excerpt: >
   Here's how...
