@@ -18,8 +18,8 @@ excerpt: >
 Gather the best set of golf clubs before the other players do. A hand building game with plenty of power-ups and penalties.
 
 <figure class="half">
-	<a href="http://placehold.it/1200x600.JPG"><img src="http://placehold.it/600x300.jpg"></a>
-	<a href="http://placehold.it/1200x600.jpeg"><img src="http://placehold.it/600x300.jpg"></a>
+	<img src="/assets/images/card-layout-witb.jpg">
+	<img src="http://placehold.it/600x300.jpg"></a>
 </figure>
 
 ### Oh My Days!
@@ -29,8 +29,8 @@ Gather the best set of golf clubs before the other players do. A hand building g
 Compete to win hands with cards based on days of the year. A strategic trick taking game with a unique blackjack-style twist.
 
 <figure class="half">
-	<a href="http://placehold.it/1200x600.JPG"><img src="http://placehold.it/600x300.jpg"></a>
-	<a href="http://placehold.it/1200x600.jpeg"><img src="http://placehold.it/600x300.jpg"></a>
+	<img src="/assets/images/card-layout-omd.jpg">
+	<img src="http://placehold.it/600x300.jpg">
 </figure>
 
 ### Group of Death
@@ -40,8 +40,8 @@ Compete to win hands with cards based on days of the year. A strategic trick tak
 Avoid the big teams, or work to get them into your opponent's hand. A fast-paced card drafting game that mimics a World Cup draw.
 
 <figure class="half">
-	<a href="http://placehold.it/1200x600.JPG"><img src="http://placehold.it/600x300.jpg"></a>
-	<a href="http://placehold.it/1200x600.jpeg"><img src="http://placehold.it/600x300.jpg"></a>
+	<img src="/assets/images/card-layout-god.jpg">
+	<img src="http://placehold.it/600x300.jpg">
 </figure>
 
 ## Get free game prototypes
