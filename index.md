@@ -6,19 +6,13 @@ header:
   overlay_image: /assets/images/eg-background.jpg
   overlay_filter: linear-gradient(rgba(3, 152, 158, 0.5), rgba(0, 0, 0, 0.5))
 excerpt: >
-  Card games developed with podcasters, YouTubers, Twitch streamers and other content creators.
+  Card games developed with podcasters, YouTubers and other content creators.
 feature_row:
-  - image_path: /assets/images/card-box-eg.jpg
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/card-deck-eg.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/card-layout-eg.jpg
-    alt: "placeholder image 3"
-    title: "Placeholder 3"
+  - title: "1. Ideas"
+    excerpt: "We have a library full of work-in-progress card games in development, ready for you to pick from. Or, we can conjour up a new one to fit your theme or audience."
+  - title: "2. Development"
+    excerpt: "We work with you to put the finishing touches to your game. Adding your branding, ."
+  - title: "3. Production"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row2:
   - image_path: /assets/images/card-box-eg.jpg
@@ -49,6 +43,8 @@ We're card game designers with a bucketful of ideas. You run a successful channe
 Together we can create unique merch for your audience.
 
 [Get in touch <i class="fa fa-angle-right"></i>](/contact){: .btn .btn--info .btn--large}
+
+## How we work
 
 {% include feature_row %}
 
