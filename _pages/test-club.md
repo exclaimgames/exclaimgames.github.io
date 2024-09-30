@@ -1,5 +1,5 @@
 ---
-title: "Join Our Games Test Club"
+title: "Join the Exclaim Games Test Club"
 layout: splash
 permalink: /test-club/
 header:
@@ -31,6 +31,6 @@ We'll email you a short form to complete. Before submitting it, ideally you'll h
 Mainly with our gratitude, but you'll also get:
 
   * the prototype for free (which you can keep)
-  * a copy of the final game once it has been polished and put into production
+  * a copy of the final game once it has been put into production
   * a shout out as one of our official games testers on the game page
   * a discount code to spend on our other games
