@@ -11,8 +11,7 @@ feature_row:
   - image_path: /assets/images/card-layout-witb.jpg
     alt: "our games"
     title: "What's In The Bag?"
-    excerpt: "<i class="fa fa-users" style="color:#03989e;"></i> 2-8 players | <i class="fa fa-stopwatch" style="color:#03989e;"></i> 20 mins | <i class="fa fa-birthday-cake" style="color:#03989e;"></i> 6+
-    Gather the best set of golf clubs before the other players do. A hand building game with plenty of power-ups and penalties.\"
+    excerpt: "<i class="fa fa-users" style="color:#03989e;"></i> 2-8 players | <i class="fa fa-stopwatch" style="color:#03989e;"></i> 20 mins | <i class="fa fa-birthday-cake" style="color:#03989e;"></i> 6+ <br> Gather the best set of golf clubs before the other players do. A hand building game with plenty of power-ups and penalties."
   - title: "2. Development"
     excerpt: "Our talented game designers work with you to weave in elements of your brand into the gameplay and artwork."
   - title: "3. Production"
