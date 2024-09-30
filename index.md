@@ -6,12 +6,25 @@ header:
   overlay_image: /assets/images/eg-background.jpg
   overlay_filter: linear-gradient(rgba(3, 152, 158, 0.5), rgba(0, 0, 0, 0.5))
 excerpt: >
-  Captivating card games developed for podcasters, YouTubers, Twitch streamers and other content creators.
-feature_row:
+  Card games developed with podcasters, YouTubers, Twitch streamers and other content creators.
+features1:
+  - image_path: /assets/images/card-box-eg.jpg
+    alt: "placeholder image 1"
+    title: "Placeholder 1"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /assets/images/card-deck-eg.jpg
+    alt: "placeholder image 2"
+    title: "Placeholder 2"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /assets/images/card-layout-eg.jpg
+    alt: "placeholder image 3"
+    title: "Placeholder 3"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+features2:
   - image_path: /assets/images/card-box-eg.jpg
     alt: "our games"
     title: "Our Games"
-    excerpt: "See what’s out now and what’s coming soon."
+    excerpt: "See what we're working on."
     url: "/games"
     btn_class: "btn--info btn--large"
     btn_label: "Go ›"
@@ -37,4 +50,6 @@ Together we can create unique merch for your audience.
 
 [Get in touch <i class="fa fa-angle-right"></i>](/contact){: .btn .btn--info .btn--large}
 
-{% include feature_row %}
+{% include features1 %}
+
+{% include features2 %}
