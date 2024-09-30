@@ -9,16 +9,16 @@ excerpt: >
   Card games developed with podcasters, YouTubers and other content creators.
 feature_row:
   - title: "1. Ideas"
-    excerpt: "We have a library full of work-in-progress card games in development, ready for you to pick from. Or, we can conjour up a new one to fit your theme or audience."
+    excerpt: "Choose from our library of work-in-progress card games, ready to be tweaked to fit any theme or audience."
   - title: "2. Development"
-    excerpt: "We work with you to put the finishing touches to your game. Adding your branding, ."
+    excerpt: "Our talented game designers work with you to weave in elements of your brand into the gameplay and artwork."
   - title: "3. Production"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "We pitch the finished product to our board game industry contacts, or go down the self-publishing route."
 feature_row2:
   - image_path: /assets/images/card-box-eg.jpg
     alt: "our games"
     title: "Our Games"
-    excerpt: "See what we're working on."
+    excerpt: "See what we've been working on."
     url: "/games"
     btn_class: "btn--info btn--large"
     btn_label: "Go ›"
@@ -38,7 +38,9 @@ feature_row2:
     btn_label: "Go ›"      
 ---
 
-We're card game designers with a bucketful of ideas. You run a successful channel, show, blog or social profile.
+We're card game designers with a bucketful of ideas.
+
+You run a successful channel, show, blog or social profile.
 
 Together we can create unique merch for your audience.
 
