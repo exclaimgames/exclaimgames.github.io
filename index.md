@@ -7,7 +7,7 @@ header:
   overlay_filter: linear-gradient(rgba(3, 152, 158, 0.5), rgba(0, 0, 0, 0.5))
 excerpt: >
   Card games developed with podcasters, YouTubers, Twitch streamers and other content creators.
-features1:
+feature_row:
   - image_path: /assets/images/card-box-eg.jpg
     alt: "placeholder image 1"
     title: "Placeholder 1"
@@ -20,7 +20,7 @@ features1:
     alt: "placeholder image 3"
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-features2:
+feature_row2:
   - image_path: /assets/images/card-box-eg.jpg
     alt: "our games"
     title: "Our Games"
@@ -50,6 +50,6 @@ Together we can create unique merch for your audience.
 
 [Get in touch <i class="fa fa-angle-right"></i>](/contact){: .btn .btn--info .btn--large}
 
-{% include features1 %}
+{% include feature_row %}
 
-{% include features2 %}
+{% include feature_row id="feature_row2"  %}
