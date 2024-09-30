@@ -9,56 +9,36 @@ excerpt: >
   See what's out now and what's coming soon.
 feature_row:
   - image_path: /assets/images/card-layout-witb.jpg
+    alt: "what's in the bag"
+    title: "What's In The Bag?"
+    excerpt: "Gather the best set of golf clubs before the other players do. A hand building game with plenty of power-ups and penalties."
+  - image_path: /assets/images/card-layout-omd.jpg
+    alt: "oh my days"
+    title: "Oh My Days!"
+    excerpt: "Compete to win hands with cards based on days of the year. A strategic trick taking game with a unique blackjack-style twist."
+  - image_path: /assets/images/card-layout-god.jpg
+    alt: "group of death"
+    title: "Group of Death"
+    excerpt: "Avoid the big teams, or work to get them into your opponent's hand. A fast-paced card drafting game that mimics a World Cup draw."
+  - image_path: /assets/images/card-layout-witb.jpg
     alt: "our games"
     title: "What's In The Bag?"
-    excerpt: "<i class="fa fa-users" style="color:#03989e;"></i> 2-8 players | <i class="fa fa-stopwatch" style="color:#03989e;"></i> 20 mins | <i class="fa fa-birthday-cake" style="color:#03989e;"></i> 6+ <br> Gather the best set of golf clubs before the other players do. A hand building game with plenty of power-ups and penalties."
-  - title: "2. Development"
+    excerpt: "Gather the best set of golf clubs before the other players do. A hand building game with plenty of power-ups and penalties."
+  - image_path: /assets/images/card-layout-witb.jpg
+    alt: "what's in the bag"
+    title: "2. Development"
     excerpt: "Our talented game designers work with you to weave in elements of your brand into the gameplay and artwork."
-  - title: "3. Production"
+  - image_path: /assets/images/card-layout-witb.jpg
+    alt: "what's in the bag"
+    title: "3. Production"
     excerpt: "We pitch the finished product to our board game industry contacts, or go down the self-publishing route."
-feature_row2:
-  - image_path: /assets/images/card-box-eg.jpg
-    alt: "our games"
-    title: "Our Games"
-    excerpt: "See what we've been working on."
 ---
 
 ## In development
 
 {% include feature_row %}
 
-### What's In The Bag?
-
-<i class="fa fa-users" style="color:#03989e;"></i> 2-8 players | <i class="fa fa-stopwatch" style="color:#03989e;"></i> 20 mins | <i class="fa fa-birthday-cake" style="color:#03989e;"></i> 6+
-
-Gather the best set of golf clubs before the other players do. A hand building game with plenty of power-ups and penalties.
-
-<figure class="half">
-	<img src="/assets/images/card-layout-witb.jpg">
-	<img src="http://placehold.it/600x300.jpg"></a>
-</figure>
-
-### Oh My Days!
-
 <i class="fa fa-users" style="color:#03989e;"></i> 2-6 players | <i class="fa fa-stopwatch" style="color:#03989e;"></i> 15 mins | <i class="fa fa-birthday-cake" style="color:#03989e;"></i> 6+
-
-Compete to win hands with cards based on days of the year. A strategic trick taking game with a unique blackjack-style twist.
-
-<figure class="half">
-	<img src="/assets/images/card-layout-omd.jpg">
-	<img src="http://placehold.it/600x300.jpg">
-</figure>
-
-### Group of Death
-
-<i class="fa fa-users" style="color:#03989e;"></i> 2-8 players | <i class="fa fa-stopwatch" style="color:#03989e;"></i> 15 mins | <i class="fa fa-birthday-cake" style="color:#03989e;"></i> 8+
-
-Avoid the big teams, or work to get them into your opponent's hand. A fast-paced card drafting game that mimics a World Cup draw.
-
-<figure class="half">
-	<img src="/assets/images/card-layout-god.jpg">
-	<img src="http://placehold.it/600x300.jpg">
-</figure>
 
 ## Get free game prototypes
 
