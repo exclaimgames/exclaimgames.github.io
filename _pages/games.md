@@ -7,9 +7,26 @@ header:
   overlay_filter: linear-gradient(rgba(3, 152, 158, 0.5), rgba(0, 0, 0, 0.5))
 excerpt: >
   See what's out now and what's coming soon.
+feature_row:
+  - image_path: /assets/images/card-layout-witb.jpg
+    alt: "our games"
+    title: "What's In The Bag?"
+    excerpt: "<i class="fa fa-users" style="color:#03989e;"></i> 2-8 players | <i class="fa fa-stopwatch" style="color:#03989e;"></i> 20 mins | <i class="fa fa-birthday-cake" style="color:#03989e;"></i> 6+
+    Gather the best set of golf clubs before the other players do. A hand building game with plenty of power-ups and penalties.\"
+  - title: "2. Development"
+    excerpt: "Our talented game designers work with you to weave in elements of your brand into the gameplay and artwork."
+  - title: "3. Production"
+    excerpt: "We pitch the finished product to our board game industry contacts, or go down the self-publishing route."
+feature_row2:
+  - image_path: /assets/images/card-box-eg.jpg
+    alt: "our games"
+    title: "Our Games"
+    excerpt: "See what we've been working on."
 ---
 
 ## In development
+
+{% include feature_row %}
 
 ### What's In The Bag?
 
