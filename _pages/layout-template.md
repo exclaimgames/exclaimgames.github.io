@@ -14,6 +14,8 @@ excerpt: >
   
 ---
 
+<i class="fa fa-users" style="color:#03989e;"></i> 2-6 players | <i class="fa fa-stopwatch" style="color:#03989e;"></i> 15 mins | <i class="fa fa-birthday-cake" style="color:#03989e;"></i> 6+
+
 A variety of common markup showing how the theme styles them.
 
 # Header one
