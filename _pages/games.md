@@ -11,7 +11,7 @@ feature_row:
   - image_path: /assets/images/card-layout-witb.jpg
     alt: "what's in the bag"
     title: "What's In The Bag?"
-    excerpt: "**2-6 players** <br> Gather the best set of golf clubs before the other players do. A hand building game with plenty of power-ups and penalties."
+    excerpt: "@icon-users **2-6 players** | @icon-fa-users **2-6 players** | @fa-users **2-6 players** :fa-users: <br> Gather the best set of golf clubs before the other players do. A hand building game with plenty of power-ups and penalties."
   - image_path: /assets/images/card-layout-omd.jpg
     alt: "oh my days"
     title: "Oh My Days!"
@@ -28,10 +28,6 @@ feature_row:
     alt: "what's in the bag"
     title: "2. Development"
     excerpt: "Our talented game designers work with you to weave in elements of your brand into the gameplay and artwork."
-  - image_path: /assets/images/card-layout-witb.jpg
-    alt: "what's in the bag"
-    title: "3. Production"
-    excerpt: "We pitch the finished product to our board game industry contacts, or go down the self-publishing route."
 ---
 
 ## In development
@@ -42,7 +38,7 @@ feature_row:
 
 Want to get your hands on our games before they're released and have a say in how they're developed? Join the Exclaim Games test club.
 
-[Sign up <i class="fa fa-angle-right"></i>](https://tinyletter.com/exclaimgames){: .btn .btn--info .btn--large}
+[Sign up <i class="fa fa-angle-right"></i>](https://exclaimgames.beehiiv.com/subscribe){: .btn .btn--info .btn--large}
 
 ## Share your game ideas
 
