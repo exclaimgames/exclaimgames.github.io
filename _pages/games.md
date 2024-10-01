@@ -15,11 +15,11 @@ feature_row:
   - image_path: /assets/images/card-layout-witb.jpg
     alt: "what's in the bag"
     title: "What's In The Bag?"
-    excerpt: "**2-6 players**, **15 mins** <br> Gather the best set of golf clubs before the other players do. A hand building game with plenty of power-ups and penalties."
+    excerpt: "<code><i class="fa fa-users" style="color:#03989e;"></i> 2-6 players | <i class="fa fa-stopwatch" style="color:#03989e;"></i> 15 mins | <i class="fa fa-birthday-cake" style="color:#03989e;"></i> 6+</code> <br> Gather the best set of golf clubs before the other players do. A hand building game with plenty of power-ups and penalties."
   - image_path: /assets/images/card-layout-omd.jpg
     alt: "oh my days"
     title: "Oh My Days"
-    excerpt: "**2-6 players**, **15 mins** <br> Compete to win hands with cards based on days of the year. A strategic trick taking game with a unique blackjack-style twist."
+    excerpt: "**2-6 players** / **15 mins** <br> Compete to win hands with cards based on days of the year. A strategic trick taking game with a unique blackjack-style twist."
   - image_path: /assets/images/card-layout-witb.jpg
     alt: "our games"
     title: "Stick It"
