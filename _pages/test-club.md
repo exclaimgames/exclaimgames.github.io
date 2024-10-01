@@ -14,7 +14,7 @@ excerpt: >
 
 Subscribe to our newsletter and we'll let you know whenever there are games that need your expert eye.
 
-[Sign up <i class="fa fa-angle-right"></i>](https://exclaimgames.substack.com){: .btn .btn--info .btn--large}
+[Sign up <i class="fa fa-angle-right"></i>](https://exclaimgames.beehiiv.com/subscribe){: .btn .btn--info .btn--large}
 
 ## FAQ
 
@@ -30,7 +30,7 @@ We'll email you a short form to complete. Before submitting it, ideally you'll h
 
 Mainly with our gratitude, but you'll also get:
 
-  * the prototype for free (which you can keep)
+  * the prototype, which is yours to keep
   * a copy of the final game once it has been put into production
   * a shout out as one of our official games testers on the game page
   * a discount code to spend on our other games
