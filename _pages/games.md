@@ -11,7 +11,7 @@ feature_row:
   - image_path: /assets/images/card-layout-witb.jpg
     alt: "what's in the bag"
     title: "What's In The Bag?"
-    excerpt: "Gather the best set of golf clubs before the other players do. A hand building game with plenty of power-ups and penalties."
+    excerpt: "**2-6 players** <br> Gather the best set of golf clubs before the other players do. A hand building game with plenty of power-ups and penalties."
   - image_path: /assets/images/card-layout-omd.jpg
     alt: "oh my days"
     title: "Oh My Days!"
@@ -37,8 +37,6 @@ feature_row:
 ## In development
 
 {% include feature_row %}
-
-<i class="fa fa-users" style="color:#03989e;"></i> 2-6 players | <i class="fa fa-stopwatch" style="color:#03989e;"></i> 15 mins | <i class="fa fa-birthday-cake" style="color:#03989e;"></i> 6+
 
 ## Get free game prototypes
 
