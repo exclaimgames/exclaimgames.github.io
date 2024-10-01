@@ -8,26 +8,26 @@ header:
 excerpt: >
   See what's out now and what's coming soon.
 feature_row:
-  - image_path: /assets/images/card-layout-witb.jpg
-    alt: "what's in the bag"
-    title: "What's In The Bag?"
-    excerpt: "**2-6 players** | **15 mins** | Gather the best set of golf clubs before the other players do. A hand building game with plenty of power-ups and penalties."
-  - image_path: /assets/images/card-layout-omd.jpg
-    alt: "oh my days"
-    title: "Oh My Days!"
-    excerpt: "**2-6 players** | **15 mins** | Compete to win hands with cards based on days of the year. A strategic trick taking game with a unique blackjack-style twist."
   - image_path: /assets/images/card-layout-god.jpg
     alt: "group of death"
     title: "Group of Death"
-    excerpt: "**2-6 players** | **15 mins** | Become a greedy TV exec, fighting to fix  a football tournament draw so you get to show the biggest games."
+    excerpt: "**2-6 players**, **15 mins** <br> Become a greedy TV exec, fighting to manipulate a football tournament draw so you get to show the biggest games."
+  - image_path: /assets/images/card-layout-witb.jpg
+    alt: "what's in the bag"
+    title: "What's In The Bag?"
+    excerpt: "**2-6 players**, **15 mins** <br> Gather the best set of golf clubs before the other players do. A hand building game with plenty of power-ups and penalties."
+  - image_path: /assets/images/card-layout-omd.jpg
+    alt: "oh my days"
+    title: "Oh My Days"
+    excerpt: "**2-6 players**, **15 mins** <br> Compete to win hands with cards based on days of the year. A strategic trick taking game with a unique blackjack-style twist."
   - image_path: /assets/images/card-layout-witb.jpg
     alt: "our games"
     title: "Stick It"
-    excerpt: "**2-6 players** | **15 mins** | A parkour game - make jumps, stick landings and impress your pals."
+    excerpt: "**2-6 players**, **15 mins** <br> A parkour game - make jumps, stick landings and impress your pals."
   - image_path: /assets/images/card-layout-witb.jpg
     alt: "what's in the bag"
     title: "Grub's Up"
-    excerpt: "**2-6 players** | **15 mins** | A card game about food reating recipe cards and ingredients."
+    excerpt: "**2-6 players**, **15 mins** <br> A card game about food reating recipe cards and ingredients."
 ---
 
 ## In development
