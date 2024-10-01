@@ -1,9 +1,11 @@
 # main links
 main:
-  - title: "Our Games"
+  - title: "About"
+    url: /about/
+  - title: "Games"
     url: /games/
-  - title: "Become a Tester"
-    url: /test-club/
+  - title: "Contact"
+    url: /contact/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
