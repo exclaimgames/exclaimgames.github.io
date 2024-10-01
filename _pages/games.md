@@ -11,26 +11,30 @@ feature_row:
   - image_path: /assets/images/card-layout-witb.jpg
     alt: "what's in the bag"
     title: "What's In The Bag?"
-    excerpt: "@icon-users **2-6 players** | @icon-fa-users **2-6 players** | @fa-users **2-6 players** :fa-users: <br> Gather the best set of golf clubs before the other players do. A hand building game with plenty of power-ups and penalties."
+    excerpt: "**2-6 players** | **15 mins** | Gather the best set of golf clubs before the other players do. A hand building game with plenty of power-ups and penalties."
   - image_path: /assets/images/card-layout-omd.jpg
     alt: "oh my days"
     title: "Oh My Days!"
-    excerpt: "Compete to win hands with cards based on days of the year. A strategic trick taking game with a unique blackjack-style twist."
+    excerpt: "**2-6 players** | **15 mins** | Compete to win hands with cards based on days of the year. A strategic trick taking game with a unique blackjack-style twist."
   - image_path: /assets/images/card-layout-god.jpg
     alt: "group of death"
     title: "Group of Death"
-    excerpt: "Avoid the big teams, or work to get them into your opponent's hand. A fast-paced card drafting game that mimics a World Cup draw."
+    excerpt: "**2-6 players** | **15 mins** | Become a greedy TV exec, fighting to fix  a football tournament draw so you get to show the biggest games."
   - image_path: /assets/images/card-layout-witb.jpg
     alt: "our games"
-    title: "What's In The Bag?"
-    excerpt: "Gather the best set of golf clubs before the other players do. A hand building game with plenty of power-ups and penalties."
+    title: "Stick It"
+    excerpt: "**2-6 players** | **15 mins** | A parkour game - make jumps, stick landings and impress your pals."
   - image_path: /assets/images/card-layout-witb.jpg
     alt: "what's in the bag"
-    title: "2. Development"
-    excerpt: "Our talented game designers work with you to weave in elements of your brand into the gameplay and artwork."
+    title: "Grub's Up"
+    excerpt: "**2-6 players** | **15 mins** | A card game about food reating recipe cards and ingredients."
 ---
 
 ## In development
+
+These a just a few of our prototypes, all waiting for collaborators to help us add the finishing touches.
+
+Could that be you? Email [hello@exclaimgames.com](mailto:hello@exclaimgames.com)
 
 {% include feature_row %}
 
@@ -42,6 +46,6 @@ Want to get your hands on our games before they're released and have a say in ho
 
 ## Share your game ideas
 
-As well as inventing games, we help people get their own games from the drawing board to the shop shelves. Think you have the next big thing?
+As well as inventing games, we help people get their own ideas from the drawing board to the shop shelves.
 
-Email [hello@exclaimgames.com](mailto:hello@exclaimgames.com)
+Think you have the next big thing? Email [hello@exclaimgames.com](mailto:hello@exclaimgames.com)
