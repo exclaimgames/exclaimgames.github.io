@@ -2,6 +2,7 @@
 layout: splash
 permalink: /
 hidden: true
+title: More games, more often
 header:
   overlay_image: /assets/images/eg-background.jpg
   overlay_filter: linear-gradient(rgba(3, 152, 158, 0.66), rgba(0, 0, 0, 0.66))
@@ -9,7 +10,7 @@ header:
     - label: "Find out what we do <i class='fa fa-angle-right'></i>"
       url: "/about"
 excerpt: >
-  Card games developed for podcasters, YouTubers, artists and other creators.
+  Welcome to the world of Exclaim Games. We design card games for podcasters, YouTubers, artists and other creators.
 feature_row:
   - title: "<i class='fa fa-dice-one'></i> Ideas"
     excerpt: "Choose from our library of work-in-progress card games, ready to be tweaked to fit any theme or audience."
