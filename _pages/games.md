@@ -1,5 +1,5 @@
 ---
-title: "Our Games"
+title: "Games, games and more games"
 layout: splash
 permalink: /games/
 header:
@@ -24,11 +24,9 @@ feature_row:
     excerpt: "**1-4 players**, **15-30 mins** <br> Make your mark in the graffiti world, developing your style and technique while avoiding the authorities."
 ---
 
-### Games in development
+### Our game prototypes
 
-Below you'll find a few of our prototypes.
-
-They all have working game mechanics which have been thoroughly playtested. What they need now are collaborators who can help us add the finishing touches to the gameplay, narrative and aesthetics. 
+The games below all have working game mechanics which have been thoroughly playtested. What they need now are collaborators who can help us add the finishing touches to the gameplay, narrative and aesthetics. 
 
 Seen something you like? Got some of your own ideas you'd like to discuss?
 
@@ -38,6 +36,8 @@ Seen something you like? Got some of your own ideas you'd like to discuss?
 
 ### Get free game prototypes
 
-Want to get your hands on our games before they're released and have a say in how they're developed? Join the Exclaim Games test club.
+Want to get your hands on our games before they're released and have a say in how they're developed?
+
+Join the Exclaim Games test club.
 
 [Sign up <i class="fa fa-angle-right"></i>](https://exclaimgames.beehiiv.com/subscribe){: .btn .btn--info .btn--large}
