@@ -10,14 +10,14 @@ header:
     - label: "Find out what we do <i class='fa fa-angle-right'></i>"
       url: "/about"
 excerpt: >
-  Welcome to the world of Exclaim Games. We design card games for podcasters, YouTubers, artists and other creators.
+  Welcome to the world of Exclaim Games. <br><br> We design card games for podcasters, YouTubers, artists and other creators.
 feature_row:
   - title: "<i class='fa fa-dice-one'></i> Ideas"
-    excerpt: "Choose from our work-in-progress card games, ready to be tweaked to fit any theme or audience."
+    excerpt: "Choose from our work-in-progress card games, ready to be adjusted to fit any theme or audience."
   - title: "<i class='fa fa-dice-two'></i> Development"
-    excerpt: "Our team works with you to weave in elements of your brand into the gameplay and artwork."
+    excerpt: "We'll work with you to weave recongisable elements of your content into the gameplay and artwork."
   - title: "<i class='fa fa-dice-three'></i> Production"
-    excerpt: "The game is pitched to our friends in the games industry, or we go down the self-publishing route."
+    excerpt: "Your game is pitched to our friends in the games industry, or we go down the self-publishing route."
 feature_row2:
   - image_path: /assets/images/card-box-eg.jpg
     alt: "our games"
@@ -25,7 +25,7 @@ feature_row2:
     excerpt: "See what we've been working on."
     url: "/games"
     btn_class: "btn--info btn--large"
-    btn_label: "See our games <i class='fa fa-angle-right'></i>"
+    btn_label: "Browse our games <i class='fa fa-angle-right'></i>"
   - image_path: /assets/images/card-deck-eg.jpg
     alt: "games tester"
     title: "<i class='fa fa-flask'></i>"
