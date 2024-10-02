@@ -4,7 +4,7 @@ layout: splash
 permalink: /sustainable-games/
 header:
   overlay_image: /assets/images/eg-background.jpg
-  overlay_filter: linear-gradient(rgba(3, 152, 158, 0.5), rgba(0, 0, 0, 0.5))
+  overlay_filter: linear-gradient(rgba(3, 152, 158, 0.66), rgba(0, 0, 0, 0.66))
 excerpt: >
   What's better than playing games? Playing games with the knowledge that they're having a positive impact on the planet.
   
@@ -25,8 +25,8 @@ At Exclaim Games we promise to:
 
 ## Making Exclaim Games a B-Corp
  
-It's easy to say these things, but much harder to do them. We want to be held accountable for our actions, so will be applying for B-Corporation status. This is the globally recognised kitemark for companies doing their best to minimise and reverse the environmental impact of their operation.
+It's easy to say these things, but much harder to do them. We want to be held accountable for our actions, so are actively working towards gaining B-Corporation status. This is the globally recognised kitemark for companies doing their best to minimise and reverse the environmental impact of their operation.
 
-Subscribe to our newsletter we'll keep you updated on our progress.
+Subscribe to our newsletter and we'll keep you updated on our progress.
 
 [Sign up <i class="fa fa-angle-right"></i>](https://tinyletter.com/exclaimgames){: .btn .btn--info .btn--large}
