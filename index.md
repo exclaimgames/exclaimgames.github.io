@@ -2,7 +2,7 @@
 layout: splash
 permalink: /
 hidden: true
-title: More games, more often
+title: Gamify your content
 header:
   overlay_image: /assets/images/eg-background.jpg
   overlay_filter: linear-gradient(rgba(3, 152, 158, 0.66), rgba(0, 0, 0, 0.66))
@@ -13,11 +13,11 @@ excerpt: >
   Welcome to the world of Exclaim Games. We design card games for podcasters, YouTubers, artists and other creators.
 feature_row:
   - title: "<i class='fa fa-dice-one'></i> Ideas"
-    excerpt: "Choose from our library of work-in-progress card games, ready to be tweaked to fit any theme or audience."
+    excerpt: "Choose from our work-in-progress card games, ready to be tweaked to fit any theme or audience."
   - title: "<i class='fa fa-dice-two'></i> Development"
-    excerpt: "Our talented game designers work with you to weave in elements of your brand into the gameplay and artwork."
+    excerpt: "Our team works with you to weave in elements of your brand into the gameplay and artwork."
   - title: "<i class='fa fa-dice-three'></i> Production"
-    excerpt: "The finished product is pitched to our friends in the games industry, or we go down the self-publishing route."
+    excerpt: "The game is pitched to our friends in the games industry, or we go down the self-publishing route."
 feature_row2:
   - image_path: /assets/images/card-box-eg.jpg
     alt: "our games"
