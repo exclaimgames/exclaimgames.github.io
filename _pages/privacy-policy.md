@@ -15,14 +15,14 @@ If you have additional questions or require more information about our Privacy P
 
 We are a Data Controller of your information.
 
-Exclaim Games Ltd legal basis for collecting and using the personal information described in this Privacy Policy depends on the Personal Information we collect and the specific context in which we collect the information:
+The legal basis for collecting and using the personal information described in this Privacy Policy depends on the Personal Information we collect and the specific context in which we collect the information:
 
-* Exclaim Games Ltd needs to perform a contract with you
-* You have given Exclaim Games Ltd permission to do so
-* Processing your personal information is in Exclaim Games Ltd legitimate interests
-* Exclaim Games Ltd needs to comply with the law
+* Exclaim Games needs to perform a contract with you
+* You have given Exclaim Games permission to do so
+* Processing your personal information is in Exclaim Games legitimate interests
+* Exclaim Games needs to comply with the law
 
-Exclaim Games Ltd will retain your personal information only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your information to the extent necessary to comply with our legal obligations, resolve disputes, and enforce our policies.
+Exclaim Games will retain your personal information only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your information to the extent necessary to comply with our legal obligations, resolve disputes, and enforce our policies.
 
 If you are a resident of the European Economic Area (EEA), you have certain data protection rights. If you wish to be informed what Personal Information we hold about you and if you want it to be removed from our systems, please contact us.
 
@@ -45,15 +45,13 @@ Like any other website, Exclaim Games uses 'cookies'. These cookies are used to 
 
 ## Privacy Policies
 
-You may consult this list to find the Privacy Policy for each of the advertising partners of Exclaim Games.
-
 Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on Exclaim Games, which are sent directly to users' browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.
 
 Note that Exclaim Games has no access to or control over these cookies that are used by third-party advertisers.
 
 ## Third Party Privacy Policies
 
-Exclaim Games's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options.
+The Exclaim Games Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options.
 
 You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites.
 
