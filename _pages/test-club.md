@@ -4,7 +4,7 @@ layout: splash
 permalink: /test-club/
 header:
   overlay_image: /assets/images/eg-background.jpg
-  overlay_filter: linear-gradient(rgba(3, 152, 158, 0.5), rgba(0, 0, 0, 0.5))
+  overlay_filter: linear-gradient(rgba(3, 152, 158, 0.66), rgba(0, 0, 0, 0.66))
 excerpt: >
   Want to get your hands on some free games? Of course you do! We need people to help turn our prototypes into perfect products.
   
@@ -12,7 +12,7 @@ excerpt: >
 
 ## Interested in becoming a tester?
 
-Subscribe to our newsletter and we'll let you know whenever there are games that need your expert eye.
+Subscribe to our newsletter and we'll let you know when there are new games that need your expert eye.
 
 [Sign up <i class="fa fa-angle-right"></i>](https://exclaimgames.beehiiv.com/subscribe){: .btn .btn--info .btn--large}
 
