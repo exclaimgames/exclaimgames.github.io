@@ -4,7 +4,7 @@ permalink: /
 hidden: true
 header:
   overlay_image: /assets/images/eg-background.jpg
-  overlay_filter: linear-gradient(rgba(3, 152, 158, 0.5), rgba(0, 0, 0, 0.66))
+  overlay_filter: linear-gradient(rgba(3, 152, 158, 0.66), rgba(0, 0, 0, 0.66))
   actions:
     - label: "<i class='fa fa-info'> Find out what we do</i>"
       url: "/about"
