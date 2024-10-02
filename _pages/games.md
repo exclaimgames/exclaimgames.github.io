@@ -10,7 +10,8 @@ excerpt: >
 feature_row:
   - title: "Group of Death"
     excerpt: "**3-6 players**, **15-20 mins** <br> Become a greedy TV exec, fighting to fix a football tournament draw so you get to show the biggest games."
-  - title: "What's In The Bag?"
+  - image_path: /assets/images/card-deck-witb.jpg
+    title: "What's In The Bag?"
     excerpt: "**2-8 players**, **5-20 mins** <br> Compete against other caddies trying to put together the best set of golf clubs for the highest paying punters."
   - title: "Oh My Days"
     excerpt: "**2-6 players**, **10-15 mins** <br> Combining unusual and iconic moments from history in a strategic trick-taking game with a blackjack-style twist."
@@ -18,7 +19,8 @@ feature_row:
     excerpt: "**1-6 players**, **20-30 mins** <br> Vault, roll and grab your way around a city, taking on gravity-defying parkour challenges to become the ultimate street athlete."
   - title: "Yes Chef"
     excerpt: "**2-6 players**, **15-20 mins**, **Co-op** <br> Work together to deliver meals through the cooking line and onto tables before the diners get restless."
-  - title: "Tagged"
+  - image_path: /assets/images/card-deck-tagged.jpg
+    title: "Tagged"
     excerpt: "**1-4 players**, **15-30 mins** <br> Make your mark in the graffiti world, developing your style and technique while avoiding the authorities."
 ---
 
