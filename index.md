@@ -20,7 +20,7 @@ feature_row:
 feature_row2:
   - image_path: /assets/images/card-box-eg.jpg
     alt: "our games"
-    title: "<i class='fa fa-dice'></i>"
+    title: "<i class='fa fa-box-archive'></i>"
     excerpt: "See what we've been working on."
     url: "/games"
     btn_class: "btn--info btn--large"
