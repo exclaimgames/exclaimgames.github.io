@@ -4,37 +4,33 @@ layout: splash
 permalink: /games/
 header:
   overlay_image: /assets/images/eg-background.jpg
-  overlay_filter: linear-gradient(rgba(3, 152, 158, 0.66), rgba(0, 0, 0, 0.5))
+  overlay_filter: linear-gradient(rgba(3, 152, 158, 0.66), rgba(0, 0, 0, 0.66))
 excerpt: >
-  See what's out now and what's coming soon.
+  See what we've been working on.
 feature_row:
-  - image_path: /assets/images/card-layout-god.jpg
-    alt: "group of death"
-    title: "Group of Death"
-    excerpt: "**3-6 players**, **15-20 mins** <br> Become a greedy TV exec, fighting to manipulate a football tournament draw so you get to show the biggest games."
-  - image_path: /assets/images/card-layout-witb.jpg
-    alt: "what's in the bag"
-    title: "What's In The Bag?"
-    excerpt: "**3-6 players**, **15-20 mins** <br> Gather the best set of golf clubs before the other players do. A hand building game with plenty of power-ups and penalties."
-  - image_path: /assets/images/card-layout-omd.jpg
-    alt: "oh my days"
-    title: "Oh My Days"
-    excerpt: "**2-6 players**, **15 mins** <br> Compete to win hands with cards based on days of the year. A strategic trick taking game with a unique blackjack-style twist."
-  - image_path: /assets/images/card-layout-witb.jpg
-    alt: "our games"
-    title: "Stick It"
-    excerpt: "**2-6 players**, **15 mins** <br> A parkour game - make jumps, stick landings and impress your pals."
-  - image_path: /assets/images/card-layout-witb.jpg
-    alt: "what's in the bag"
-    title: "Grub's Up"
-    excerpt: "**2-6 players**, **15 mins** <br> A card game about food reating recipe cards and ingredients."
+  - title: "Group of Death"
+    excerpt: "**3-6 players**, **15-20 mins** <br> Become a greedy TV exec, fighting to fix a football tournament draw so you get to show the biggest games."
+  - title: "What's In The Bag?"
+    excerpt: "**2-8 players**, **5-20 mins** <br> Compete against other caddies trying to put together the best set of golf clubs for the highest paying punters."
+  - title: "Oh My Days"
+    excerpt: "**2-6 players**, **10-15 mins** <br> Combining unusual and iconic moments from history in a strategic trick-taking game with a blackjack-style twist."
+  - title: "Stick It"
+    excerpt: "**1-6 players**, **20-30 mins** <br> Vault, roll and grab your way around a city, taking on gravity-defying parkour challenges to become the ultimate street athlete."
+  - title: "Yes Chef"
+    excerpt: "**2-6 players**, **15-20 mins**, **Co-op** <br> Work together to deliver meals through the cooking line and onto tables before the diners get restless."
+  - title: "Tagged"
+    excerpt: "**1-4 players**, **15-30 mins** <br> Make your mark in the graffiti world, developing your style and technique while avoiding the authorities."
 ---
 
 ## In development
 
-These a just a few of our prototypes, all waiting for collaborators to help us add the finishing touches.
+Below you'll find a few of our prototypes.
 
-Could that be you? Email [hello@exclaimgames.com](mailto:hello@exclaimgames.com)
+They all have working game mechanics which have been thoroughly playtested. What they need now are collaborators who can help us add the finishing touches to the gameplay, narrative and aesthetics. 
+
+Seen something you like? Got some of your own ideas you'd like to discuss?
+
+[<i class="fa fa-comment-dots"></i> Get in touch ](mailto:hello@exclaimgames.com){: .btn .btn--info .btn--large}
 
 {% include feature_row %}
 
@@ -43,9 +39,3 @@ Could that be you? Email [hello@exclaimgames.com](mailto:hello@exclaimgames.com)
 Want to get your hands on our games before they're released and have a say in how they're developed? Join the Exclaim Games test club.
 
 [Sign up <i class="fa fa-angle-right"></i>](https://exclaimgames.beehiiv.com/subscribe){: .btn .btn--info .btn--large}
-
-## Share your game ideas
-
-As well as inventing games, we help people get their own ideas from the drawing board to the shop shelves.
-
-Think you have the next big thing? Email [hello@exclaimgames.com](mailto:hello@exclaimgames.com)
