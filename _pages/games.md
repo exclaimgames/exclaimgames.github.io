@@ -30,7 +30,7 @@ They all have working game mechanics which have been thoroughly playtested. What
 
 Seen something you like? Got some of your own ideas you'd like to discuss?
 
-[<i class="fa fa-comment-dots"></i> Get in touch ](mailto:hello@exclaimgames.com){: .btn .btn--info .btn--large}
+[<i class="fa fa-comment-dots"></i> Get in touch](mailto:hello@exclaimgames.com){: .btn .btn--info .btn--large}
 
 {% include feature_row %}
 
