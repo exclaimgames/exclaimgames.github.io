@@ -22,7 +22,7 @@ feature_row:
     excerpt: "**1-4 players**, **15-30 mins** <br> Make your mark in the graffiti world, developing your style and technique while avoiding the authorities."
 ---
 
-## In development
+### Games in development
 
 Below you'll find a few of our prototypes.
 
@@ -34,7 +34,7 @@ Seen something you like? Got some of your own ideas you'd like to discuss?
 
 {% include feature_row %}
 
-## Get free game prototypes
+### Get free game prototypes
 
 Want to get your hands on our games before they're released and have a say in how they're developed? Join the Exclaim Games test club.
 
