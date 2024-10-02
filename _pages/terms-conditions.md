@@ -15,7 +15,7 @@ We expressly reserve the right to change these Terms and Conditions from time to
 
 ## Conduct on Website
 
-Your use of the Website is subject to all applicable laws and regulations, and you are solely responsible for the substance of your communications through the Website. These Terms and Conditions were created by Terms Conditions Template Generator.
+Your use of the Website is subject to all applicable laws and regulations, and you are solely responsible for the substance of your communications through the Website..
 
 By posting information in or otherwise using any communications service, chat room, message board, newsgroup, software library, or other interactive service that may be available to you on or through this Website, you agree that you will not upload, share, post, or otherwise distribute or facilitate distribution of any content — including text, communications, software, images, sounds, data, or other information — that:
 
@@ -54,7 +54,7 @@ We are not liable for damages, direct or consequential, resulting from your use 
 
 ## Term and termination
 
-This Terms and Conditions will become effective in relation to you when you create a Exclaim Games account or when you start using the Exclaim Games and will remain effective until terminated by you or by us.
+This Terms and Conditions will become effective in relation to you when you create a Exclaim Games account or when you start using Exclaim Games and will remain effective until terminated by you or by us.
 
 Exclaim Games reserves the right to terminate this Terms and Conditions or suspend your account at any time in case of unauthorized, or suspected unauthorized use of the Website whether in contravention of this Terms and Conditions or otherwise. If Exclaim Games terminates this Terms and Conditions, or suspends your account for any of the reasons set out in this section, Exclaim Games shall have no liability or responsibility to you.
 
@@ -66,4 +66,4 @@ Exclaim Games may assign this Terms and Conditions or any part of it without res
 
 These Terms and Conditions and any dispute or claim arising out of, or related to them, shall be governed by and construed in accordance with the internal laws of the gb without giving effect to any choice or conflict of law provision or rule.
 
-Any legal suit, action or proceeding arising out of, or related to, these Terms of Service or the Website shall be instituted exclusively in the federal courts of gb.
+Any legal suit, action or proceeding arising out of, or related to, these Terms of Service or the Website shall be instituted exclusively in the courts of the UK.
