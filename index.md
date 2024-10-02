@@ -7,10 +7,10 @@ header:
   overlay_image: /assets/images/eg-background.jpg
   overlay_filter: linear-gradient(rgba(3, 152, 158, 0.66), rgba(0, 0, 0, 0.66))
   actions:
-    - label: "Find out what we do <i class='fa fa-angle-right'></i>"
+    - label: "Find out more <i class='fa fa-angle-right'></i>"
       url: "/about"
 excerpt: >
-  Welcome to the world of Exclaim Games. <br><br> We design card games for podcasters, YouTubers, artists and other creators.
+    At Exclaim games we design card games for podcasters, YouTubers, artists and other creators.
 feature_row:
   - title: "<i class='fa fa-dice-one'></i> Ideas"
     excerpt: "Choose from our work-in-progress card games, ready to be adjusted to fit any theme or audience."
