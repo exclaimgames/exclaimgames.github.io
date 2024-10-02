@@ -11,7 +11,7 @@ feature_row:
   - image_path: /assets/images/card-layout-god.jpg
     alt: "group of death"
     title: "Group of Death"
-    excerpt: "**2-6 players**, **15 mins** <br> Become a greedy TV exec, fighting to manipulate a football tournament draw so you get to show the biggest games."
+    excerpt: "<i class="fa fa-users"></i> 3-6 players <i class="fa fa-stopwatch"></i> 15-20 mins <br> Become a greedy TV exec, fighting to manipulate a football tournament draw so you get to show the biggest games."
   - image_path: /assets/images/card-layout-witb.jpg
     alt: "what's in the bag"
     title: "What's In The Bag?"
