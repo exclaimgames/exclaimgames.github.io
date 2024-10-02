@@ -4,22 +4,22 @@ layout: splash
 permalink: /games/
 header:
   overlay_image: /assets/images/eg-background.jpg
-  overlay_filter: linear-gradient(rgba(3, 152, 158, 0.5), rgba(0, 0, 0, 0.5))
+  overlay_filter: linear-gradient(rgba(3, 152, 158, 0.66), rgba(0, 0, 0, 0.5))
 excerpt: >
   See what's out now and what's coming soon.
 feature_row:
   - image_path: /assets/images/card-layout-god.jpg
     alt: "group of death"
     title: "Group of Death"
-    excerpt: "<i class="fa fa-users"></i> 3-6 players <i class="fa fa-stopwatch"></i> 15-20 mins <br> Become a greedy TV exec, fighting to manipulate a football tournament draw so you get to show the biggest games."
+    excerpt: "**3-6 players**, **15-20 mins** <br> Become a greedy TV exec, fighting to manipulate a football tournament draw so you get to show the biggest games."
   - image_path: /assets/images/card-layout-witb.jpg
     alt: "what's in the bag"
     title: "What's In The Bag?"
-    excerpt: "Gather the best set of golf clubs before the other players do. A hand building game with plenty of power-ups and penalties."
+    excerpt: "**3-6 players**, **15-20 mins** <br> Gather the best set of golf clubs before the other players do. A hand building game with plenty of power-ups and penalties."
   - image_path: /assets/images/card-layout-omd.jpg
     alt: "oh my days"
     title: "Oh My Days"
-    excerpt: "**2-6 players** / **15 mins** <br> Compete to win hands with cards based on days of the year. A strategic trick taking game with a unique blackjack-style twist."
+    excerpt: "**2-6 players**, **15 mins** <br> Compete to win hands with cards based on days of the year. A strategic trick taking game with a unique blackjack-style twist."
   - image_path: /assets/images/card-layout-witb.jpg
     alt: "our games"
     title: "Stick It"
