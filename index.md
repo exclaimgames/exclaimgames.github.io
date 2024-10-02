@@ -13,9 +13,9 @@ excerpt: >
 feature_row:
   - title: "<i class='fa fa-dice-one'></i> Ideas"
     excerpt: "Choose from our library of work-in-progress card games, ready to be tweaked to fit any theme or audience."
-  - title: "<i class='fa fa-dice-two'></i> 2. Development"
+  - title: "<i class='fa fa-dice-two'></i> Development"
     excerpt: "Our talented game designers work with you to weave in elements of your brand into the gameplay and artwork."
-  - title: "<i class='fa fa-dice-three'></i> 3. Production"
+  - title: "<i class='fa fa-dice-three'></i> Production"
     excerpt: "The finished product is pitched to our friends in the games industry, or we go down the self-publishing route."
 feature_row2:
   - image_path: /assets/images/card-box-eg.jpg
@@ -24,21 +24,21 @@ feature_row2:
     excerpt: "See what we've been working on."
     url: "/games"
     btn_class: "btn--info btn--large"
-    btn_label: "See our games <i class='fa fa-angle-right'>"
+    btn_label: "See our games <i class='fa fa-angle-right'></i>"
   - image_path: /assets/images/card-deck-eg.jpg
     alt: "games tester"
     title: "<i class='fa fa-flask'></i>"
     excerpt: "Help us develop new game prototypes."
     url: "/test-club"
     btn_class: "btn--info btn--large"
-    btn_label: "Become a tester <i class='fa fa-angle-right'>"
+    btn_label: "Become a tester <i class='fa fa-angle-right'></i>"
   - image_path: /assets/images/card-layout-eg.jpg
     alt: "eco promise"
     title: "<i class='fa fa-leaf'></i>"
     excerpt: "Find out about our sustainable processes."
     url: "/sustainable-games"
     btn_class: "btn--info btn--large"
-    btn_label: "Read our eco promise <i class='fa fa-angle-right'>"      
+    btn_label: "Read our eco promise <i class='fa fa-angle-right'></i>"      
 ---
 
 We're card game designers with a library full of prototypes. You run a successful channel, show, blog or social profile.
