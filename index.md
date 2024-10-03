@@ -13,7 +13,7 @@ excerpt: >
     At Exclaim Games we design card games for podcasters, YouTubers, artists and other creators.
 feature_row:
   - title: "<i class='fa fa-dice-one'></i> Ideas"
-    excerpt: "Choose from our work-in-progress card games, ready to be adjusted to fit any theme or audience."
+    excerpt: "Choose from our [work-in-progress card games](/games), ready to be adjusted to fit any theme or audience."
   - title: "<i class='fa fa-dice-two'></i> Development"
     excerpt: "We'll work with you to weave recongisable elements of your content into the gameplay and artwork."
   - title: "<i class='fa fa-dice-three'></i> Production"
@@ -42,7 +42,7 @@ feature_row2:
     btn_label: "Read our eco promise <i class='fa fa-angle-right'></i>"      
 ---
 
-We're card game designers with a library full of prototypes. You run a successful channel, show, blog or social profile.
+We're card game designers with a [library full of prototypes](/games). You run a successful channel, show, blog or social profile.
 
 Together we can create unique merch for your audience.
 
