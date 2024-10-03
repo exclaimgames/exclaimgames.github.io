@@ -15,7 +15,7 @@ feature_row:
   - title: "<i class='fa fa-dice-one'></i> Ideas"
     excerpt: "Choose from our [work-in-progress card games](/games), ready to be adjusted to fit any theme or audience."
   - title: "<i class='fa fa-dice-two'></i> Development"
-    excerpt: "We'll work with you to weave recongisable elements of your content into the gameplay and artwork."
+    excerpt: "We'll work with you to weave recognisable elements of your content into the gameplay and artwork."
   - title: "<i class='fa fa-dice-three'></i> Production"
     excerpt: "Your game is pitched to our friends in the games industry, or we go down the self-publishing route."
 feature_row2:
@@ -42,7 +42,9 @@ feature_row2:
     btn_label: "Read our eco promise <i class='fa fa-angle-right'></i>"      
 ---
 
-We're card game designers with a [library full of prototypes](/games). You run a successful channel, show, blog or social profile.
+We're card game designers with a [library full of prototypes](/games).
+
+You run a successful channel, show, blog or social profile.
 
 Together we can create unique merch for your audience.
 
