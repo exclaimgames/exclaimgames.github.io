@@ -1,5 +1,5 @@
 ---
-title: "Our Eco Promise"
+title: "Our eco promise"
 layout: splash
 permalink: /sustainable-games/
 header:
