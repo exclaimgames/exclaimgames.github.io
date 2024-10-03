@@ -30,6 +30,8 @@ So, we work with podcasters, YouTubers, TikTokers and anyone else who has grown 
 
 ### Everyone wins
 
+Whether your thing is house plants, hiking, hockey or hairdressing, we can turn what you do into a game.
+
 Spin-off board and card games have always been popular for TV shows. From [Blockbusters](https://boardgamegeek.com/boardgame/1640/blockbusters) and [Top of the Pops](https://boardgamegeek.com/boardgame/311676/top-of-the-pops-the-game) to the more recent [Pointless](https://boardgamegeek.com/boardgame/92094/pointless-the-board-game), [Taskmaster](https://boardgamegeek.com/boardgame/297234/taskmaster-the-board-game) and [Traitors](https://boardgamegeek.com/boardgame/376656/the-traitors).
 
 Exclaim Games is bringing this same concept to the modern media industry.
