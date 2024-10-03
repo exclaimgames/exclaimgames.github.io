@@ -20,9 +20,9 @@ That's why we're obsessed with creating [card games](/games/) that appeal to a w
 
 ### But rather than going straight to producers to get them into the shops, we came up with a novel idea.
 
-Why not collaborate with people who have built an active audience they're able to directly connect with?
+Why not collaborate with people who have built a fanbase who they're able to directly connect with?
 
-So, we work with podcasters, YouTubers, TikTokers and anyone else who has grown an online audience they're looking to monetize.
+So, we work with podcasters, YouTubers, TikTokers and anyone else who has grown an online audience.
 
 - Creators get a unique opportunity to generate revenue, and a way to reward premium subscribers
 - We get direct access to their followers, giving [our games](/games/) a helpful marketing boost
