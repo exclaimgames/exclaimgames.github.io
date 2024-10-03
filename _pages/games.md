@@ -35,9 +35,11 @@ feature_row:
     
 ---
 
-### A few of our work-in-progress games
+### A few of our work-in-progress prototypes
 
-We've thoroughly playtested these games and they have the basic mechanics and dynamics in place. They now need collaborators who can help us add the finishing touches to the gameplay, narrative and aesthetics. 
+We've thoroughly playtested these games and they have the basic mechanics and dynamics in place.
+
+They now need collaborators who can help us add the finishing touches to the gameplay, narrative and aesthetics. 
 
 Seen something you like? Want to see the rest of our games in development? Got some of your own ideas?
 
