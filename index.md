@@ -10,7 +10,7 @@ header:
     - label: "Find out more <i class='fa fa-angle-right'></i>"
       url: "/about"
 excerpt: >
-    At Exclaim games we design card games for podcasters, YouTubers, artists and other creators.
+    At Exclaim Games we design card games for podcasters, YouTubers, artists and other creators.
 feature_row:
   - title: "<i class='fa fa-dice-one'></i> Ideas"
     excerpt: "Choose from our work-in-progress card games, ready to be adjusted to fit any theme or audience."
