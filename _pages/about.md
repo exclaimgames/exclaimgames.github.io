@@ -32,9 +32,9 @@ So, we work with podcasters, YouTubers, TikTokers and anyone else who has grown 
 
 Whether your thing is house plants, hiking, hockey or hairdressing, we can turn what you do into a game.
 
-And once we've created it, we'll figure out the best way to launch it.
+And once we've created it, we'll figure out the best way to sell it.
 
-That could be through a traditional publisher, via a Kickstarter campaign, or we self publish using a print-on-demand service. We'll assess the options and work with you to decide which route makes most sense for your game.
+That might be by pitching to a traditional publisher, launching a Kickstarter campaign, or we could self publish using a print-on-demand service. We'll assess the options and work with you to decide which route makes most sense for your game.
 
 Spin-off board and card games have always been popular for TV shows. From [Blockbusters](https://boardgamegeek.com/boardgame/1640/blockbusters) and [Top of the Pops](https://boardgamegeek.com/boardgame/311676/top-of-the-pops-the-game) to the more recent [Pointless](https://boardgamegeek.com/boardgame/92094/pointless-the-board-game), [Taskmaster](https://boardgamegeek.com/boardgame/297234/taskmaster-the-board-game) and [Traitors](https://boardgamegeek.com/boardgame/376656/the-traitors).
 
