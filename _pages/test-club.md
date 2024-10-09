@@ -3,8 +3,8 @@ title: "Join the Exclaim Games Test Club"
 layout: splash
 permalink: /test-club/
 header:
-  overlay_image: /assets/images/eg-background.jpg
-  overlay_filter: linear-gradient(rgba(3, 152, 158, 0.66), rgba(0, 0, 0, 0.66))
+  overlay_image: /assets/images/hero-pattern-e.jpg
+  overlay_filter: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.5))
 excerpt: >
   Want to get your hands on some free games? Of course you do! We need people to help turn our prototypes into perfect products.
   
