@@ -3,8 +3,8 @@ title: "Games, games and more games"
 layout: splash
 permalink: /games/
 header:
-  overlay_image: /assets/images/eg-background.jpg
-  overlay_filter: linear-gradient(rgba(3, 152, 158, 0.66), rgba(0, 0, 0, 0.66))
+  overlay_image: /assets/images/hero-pattern-c.jpg
+  overlay_filter: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.5))
 excerpt: >
   See what we've been working on.
 feature_row:
