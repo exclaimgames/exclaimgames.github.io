@@ -3,12 +3,12 @@ title: "Games, games and more games"
 layout: splash
 permalink: /games/
 header:
-  overlay_image: /assets/images/hero-pattern-c.jpg
+  overlay_image: /assets/images/hero-pattern-f.jpg
   overlay_filter: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.5))
 excerpt: >
   See what we've been working on.
 feature_row:
-  - image_path: /assets/images/card-deck-god.jpg
+  - image_path: /assets/images/group-of-death.jpg
     alt: "group of death"
     title: "Group of Death"
     excerpt: "**3-6 players**, **15-20 mins** <br> Take on the role of a greedy TV exec, fighting to fix a football tournament draw so you get to show the biggest games."
@@ -20,17 +20,11 @@ feature_row:
     alt: "oh my days"
     title: "Oh My Days"
     excerpt: "**2-6 players**, **10-15 mins** <br> Connect unusual and iconic moments from history in a strategic trick-taking game with a blackjack-style twist."
-  - image_path: /assets/images/card-deck-stick.jpg
-    alt: "stick it"
-    title: "Stick It"
+  - title: "Stick It"
     excerpt: "**1-6 players**, **20-30 mins** <br> Vault, roll and grab your way around a city, taking on gravity-defying parkour challenges to become the ultimate street athlete."
-  - image_path: /assets/images/card-deck-yeschef.jpg
-    alt: "yes chef"
-    title: "Yes Chef"
+  - title: "Yes Chef"
     excerpt: "**2-6 players**, **15-20 mins**, **Co-op** <br> Work together to deliver meals through the cooking line and onto tables before the diners get restless."
-  - image_path: /assets/images/card-deck-tagged.jpg
-    alt: "tagged"
-    title: "Tagged"
+  - title: "Tagged"
     excerpt: "**1-4 players**, **15-30 mins** <br> Make your mark in the graffiti world, developing your style and technique while avoiding the authorities."
     
 ---
