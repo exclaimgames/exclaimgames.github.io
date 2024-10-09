@@ -11,6 +11,14 @@
   display: none;
 }
 
+.btn {
+  background-color: #ff686b;
+}
+
+.btn info:hover {
+    background-color: #b20f00;
+}
+
 .greedy-nav .visible-links a:before {
   background-color: #03989e;
 }
