@@ -15,7 +15,11 @@
   background-color: #ff686b;
 }
 
-.btn info:hover {
+.btn:visited .btn--info:visited .btn--large:visited {
+  background-color: #ff686b;
+}
+
+.btn:hover .btn--info:hover .btn--large:hover {
     background-color: #b20f00;
 }
 
