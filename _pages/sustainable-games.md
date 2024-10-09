@@ -29,4 +29,4 @@ It's easy to say these things, but much harder to do them. We want to be held ac
 
 Subscribe to our newsletter and we'll keep you updated on our progress.
 
-[Sign up <i class="fa fa-angle-right"></i>](https://tinyletter.com/exclaimgames){: .btn .btn--info .btn--large}
+[Sign up <i class="fa fa-angle-right"></i>](https://exclaimgames.beehiiv.com/subscribe){: .btn .btn--info .btn--large}
