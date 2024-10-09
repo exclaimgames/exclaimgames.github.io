@@ -3,8 +3,8 @@ title: "The Exclaim Games story"
 layout: splash
 permalink: /about/
 header:
-  overlay_image: /assets/images/eg-background.jpg
-  overlay_filter: linear-gradient(rgba(3, 152, 158, 0.66), rgba(0, 0, 0, 0.66))
+  overlay_image: /assets/images/hero-pattern-b.jpg
+  overlay_filter: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.5))
 excerpt: >
   Our mission? To bring more joy to the world through play.
   
