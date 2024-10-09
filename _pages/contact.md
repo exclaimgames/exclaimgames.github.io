@@ -3,8 +3,8 @@ title: "Calling all creators"
 layout: splash
 permalink: /contact/
 header:
-  overlay_image: /assets/images/eg-background.jpg
-  overlay_filter: linear-gradient(rgba(3, 152, 158, 0.66), rgba(0, 0, 0, 0.66))
+  overlay_image: /assets/images/hero-pattern-f.jpg
+  overlay_filter: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.5))
 excerpt: >
   We're on the hunt for collaborators who can give an audience to our games.
   
