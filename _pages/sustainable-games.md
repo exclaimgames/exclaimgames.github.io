@@ -3,8 +3,8 @@ title: "Our eco promise"
 layout: splash
 permalink: /sustainable-games/
 header:
-  overlay_image: /assets/images/eg-background.jpg
-  overlay_filter: linear-gradient(rgba(3, 152, 158, 0.66), rgba(0, 0, 0, 0.66))
+  overlay_image: /assets/images/hero-pattern-d.jpg
+  overlay_filter: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.5))
 excerpt: >
   What's better than playing games? Playing games with the knowledge that they're having a positive impact on the planet.
   
