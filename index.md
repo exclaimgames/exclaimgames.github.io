@@ -5,7 +5,7 @@ hidden: true
 title: Gamify your content
 header:
   overlay_image: /assets/images/hero-pattern-a.jpg
-  overlay_filter: linear-gradient(rgba(3, 152, 158, 0.66), rgba(0, 0, 0, 0.66))
+  overlay_filter: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.5))
   actions:
     - label: "Find out more <i class='fa fa-angle-right'></i>"
       url: "/about"
