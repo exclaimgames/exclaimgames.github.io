@@ -48,7 +48,7 @@ You run a successful channel, show, blog or social profile.
 
 Together we can create unique merch for your audience.
 
-[<i class="fa fa-comment-dots"></i> Get in touch ](/contact){: .btn .btn--info .btn--large}
+[<i class="fa fa-envelope"></i> Get in touch ](/contact){: .btn .btn--info .btn--large}
 
 ### How it works
 
