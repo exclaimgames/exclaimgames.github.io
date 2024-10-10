@@ -19,21 +19,21 @@ feature_row:
   - title: "<i class='fa fa-dice-three'></i> Production"
     excerpt: "Your game is pitched to our friends in the games industry, or we go down the self-publishing route."
 feature_row2:
-  - image_path: /assets/images/card-box-eg.jpg
+  - image_path: /assets/images/card-box-eg-a.jpg
     alt: "our games"
     title: "<i class='fa fa-layer-group'></i>"
     excerpt: "See what we've been working on."
     url: "/games"
     btn_class: "btn--info btn--large"
     btn_label: "Browse our games <i class='fa fa-angle-right'></i>"
-  - image_path: /assets/images/card-deck-eg.jpg
+  - image_path: /assets/images/card-deck-eg-a.jpg
     alt: "games tester"
     title: "<i class='fa fa-flask'></i>"
     excerpt: "Help us develop new game prototypes."
     url: "/test-club"
     btn_class: "btn--info btn--large"
     btn_label: "Become a tester <i class='fa fa-angle-right'></i>"
-  - image_path: /assets/images/card-layout-eg.jpg
+  - image_path: /assets/images/card-layout-eg-a.jpg
     alt: "eco promise"
     title: "<i class='fa fa-leaf'></i>"
     excerpt: "Find out about our sustainable processes."
