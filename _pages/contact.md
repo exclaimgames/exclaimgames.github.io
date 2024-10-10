@@ -12,7 +12,7 @@ excerpt: >
 
 Whether you run a golf YouTube channel, a science podcast, or a vanlife Instagram feed, there's an opportunity for us to turn what you create into a card game.
 
-Our stack of prototypes is sat waiting for the final themes, mechanics and designs to be added. All that's needed is a bit of input from you and we'll turn them into beautifully crafted card games ready for your merch store.
+Our [stack of game prototypes](/games) is sat waiting for the final themes, mechanics and designs to be added. All that's needed is a bit of input from you and we'll make them into beautifully branded card games ready for your merch store.
 
 ### Interested?
 
