@@ -37,7 +37,7 @@ They now need collaborators who can help us add the finishing touches to the gam
 
 Seen something you like? Want to see the rest of our games in development? Got some of your own ideas?
 
-[<i class="fa fa-comment-dots"></i> Get in touch](mailto:hello@exclaimgames.com){: .btn .btn--info .btn--large}
+[<i class="fa fa-envelope"></i> Get in touch](mailto:hello@exclaimgames.com){: .btn .btn--info .btn--large}
 
 {% include feature_row %}
 
@@ -45,4 +45,4 @@ Seen something you like? Want to see the rest of our games in development? Got s
 
 Want to get your hands on our games before they're released and have a say in how they're developed?
 
-[Join the Exclaim Games test club <i class="fa fa-angle-right"></i>](https://exclaimgames.beehiiv.com/subscribe){: .btn .btn--info .btn--large}
+[Join the Exclaim Games test club <i class="fa fa-angle-right"></i>](/test-club){: .btn .btn--info .btn--large}
