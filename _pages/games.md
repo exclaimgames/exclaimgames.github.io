@@ -12,14 +12,14 @@ feature_row:
     alt: "group of death"
     title: "Group of Death"
     excerpt: "**3-6 players**, **15-20 mins** <br> Take on the role of a greedy TV exec, fighting to fix a football tournament draw so you get to show the biggest games."
-  - image_path: /assets/images/card-deck-witb.jpg
-    alt: "what's in the bag?"
-    title: "What's In The Bag?"
-    excerpt: "**2-8 players**, **5-20 mins** <br> Compete against other caddies trying to put together the best set of golf clubs for the highest paying punters."
   - image_path: /assets/images/card-deck-omd.jpg
     alt: "oh my days"
     title: "Oh My Days"
     excerpt: "**2-6 players**, **10-15 mins** <br> Connect unusual and iconic moments from history in a strategic trick-taking game with a blackjack-style twist."
+  - image_path: /assets/images/oh-my-days.jpg
+    alt: "what's in the bag?"
+    title: "What's In The Bag?"
+    excerpt: "**2-8 players**, **5-20 mins** <br> Compete against other caddies trying to put together the best set of golf clubs for the highest paying punters."
   - title: "Stick It"
     excerpt: "**1-6 players**, **20-30 mins** <br> Vault, roll and grab your way around a city, taking on gravity-defying parkour challenges to become the ultimate street athlete."
   - title: "Yes Chef"
